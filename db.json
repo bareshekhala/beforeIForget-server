@@ -8,7 +8,9 @@
       "image": "https://covers.openlibrary.org/b/id/10832290-M.jpg",
       "author": "Jorge Luis Borges",
       "category": "fiction",
-      "moodId": [7]
+      "moodId": [
+        7
+      ]
     },
     {
       "id": "OL1960472W",
@@ -18,7 +20,11 @@
       "image": "https://covers.openlibrary.org/b/id/6941459-M.jpg",
       "author": "Robert Silverberg, Robert A. Heinlein, Arthur C. Clarke, Isaac Asimov, Ray Bradbury",
       "category": "science-fiction",
-      "moodId": [9, 10, 7]
+      "moodId": [
+        9,
+        10,
+        7
+      ]
     },
     {
       "id": "OL38494W",
@@ -28,7 +34,9 @@
       "image": "https://covers.openlibrary.org/b/id/6424001-M.jpg",
       "author": "Neal Stephenson",
       "category": "science-fiction",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": "OL35627W",
@@ -38,7 +46,12 @@
       "image": "https://covers.openlibrary.org/b/id/288149-M.jpg",
       "author": "Octavia E. Butler",
       "category": "science-fiction",
-      "moodId": [9, 10, 3, 7]
+      "moodId": [
+        9,
+        10,
+        3,
+        7
+      ]
     },
     {
       "id": "OL679357W",
@@ -48,7 +61,9 @@
       "image": "https://covers.openlibrary.org/b/id/6754762-M.jpg",
       "author": "Neil Gaiman, Richard Chizmar, William Peter Blatty, Kealan Patrick Burke, Brian Keene, Joe Hill, Joe R. Lansdale, Ray Garton",
       "category": "fiction",
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": "OL17348681W",
@@ -58,7 +73,10 @@
       "image": "https://covers.openlibrary.org/b/id/8432069-M.jpg",
       "author": "Neil Gaiman",
       "category": "fiction",
-      "moodId": [8, 3]
+      "moodId": [
+        8,
+        3
+      ]
     },
     {
       "id": "OL174492W",
@@ -68,7 +86,10 @@
       "image": "https://covers.openlibrary.org/b/id/14630218-M.jpg",
       "author": "Stanton, Robert, R Stanton, R. Stanton, Robert Stanton",
       "category": "fiction",
-      "moodId": [6, 7]
+      "moodId": [
+        6,
+        7
+      ]
     },
     {
       "id": "OL20283W",
@@ -78,7 +99,10 @@
       "image": "https://covers.openlibrary.org/b/id/9546176-M.jpg",
       "author": "Janet Burroway, Susan Weinberg, Elizabeth Stuckey-French, Ned Stuckey-French",
       "category": "fiction",
-      "moodId": [6, 7]
+      "moodId": [
+        6,
+        7
+      ]
     },
     {
       "id": "OL892508W",
@@ -88,7 +112,11 @@
       "image": "https://covers.openlibrary.org/b/id/10952280-M.jpg",
       "author": "Brian W. Aldiss, Brian W. Aldiss",
       "category": "science-fiction",
-      "moodId": [9, 10, 7]
+      "moodId": [
+        9,
+        10,
+        7
+      ]
     },
     {
       "id": "OL2919959W",
@@ -98,7 +126,10 @@
       "image": "https://covers.openlibrary.org/b/id/12639079-M.jpg",
       "author": "Tim O'Brien",
       "category": "history",
-      "moodId": [3, 7]
+      "moodId": [
+        3,
+        7
+      ]
     },
     {
       "id": "OL8404014W",
@@ -108,7 +139,11 @@
       "image": "https://covers.openlibrary.org/b/id/5543912-M.jpg",
       "author": "A. E. van Vogt, Oliver Wyman, Kevin J. Anderson",
       "category": "science-fiction",
-      "moodId": [9, 10, 7]
+      "moodId": [
+        9,
+        10,
+        7
+      ]
     },
     {
       "id": "OL46125W",
@@ -118,7 +153,10 @@
       "image": "https://covers.openlibrary.org/b/id/14612610-M.jpg",
       "author": "Isaac Asimov",
       "category": "science-fiction",
-      "moodId": [9, 10]
+      "moodId": [
+        9,
+        10
+      ]
     },
     {
       "id": "OL444723W",
@@ -128,7 +166,9 @@
       "image": "https://covers.openlibrary.org/b/id/13258348-M.jpg",
       "author": "Jorge Luis Borges",
       "category": "fiction",
-      "moodId": [7]
+      "moodId": [
+        7
+      ]
     },
     {
       "id": "OL273080W",
@@ -138,7 +178,9 @@
       "image": "https://covers.openlibrary.org/b/id/382159-M.jpg",
       "author": "Philip José Farmer",
       "category": "science-fiction",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": "OL497137W",
@@ -148,7 +190,10 @@
       "image": "https://covers.openlibrary.org/b/id/9144523-M.jpg",
       "author": "Dean Koontz",
       "category": "fiction",
-      "moodId": [6, 7]
+      "moodId": [
+        6,
+        7
+      ]
     },
     {
       "id": "OL3287407W",
@@ -158,7 +203,10 @@
       "image": "https://covers.openlibrary.org/b/id/411367-M.jpg",
       "author": "Anne Bernays",
       "category": "fiction",
-      "moodId": [9, 7]
+      "moodId": [
+        9,
+        7
+      ]
     },
     {
       "id": "OL46396W",
@@ -168,7 +216,10 @@
       "image": "https://covers.openlibrary.org/b/id/12003991-M.jpg",
       "author": "Isaac Asimov",
       "category": "science-fiction",
-      "moodId": [9, 7]
+      "moodId": [
+        9,
+        7
+      ]
     },
     {
       "id": "OL98484W",
@@ -178,7 +229,9 @@
       "image": "https://covers.openlibrary.org/b/id/280246-M.jpg",
       "author": "Kurt Vonnegut",
       "category": "science-fiction",
-      "moodId": [9]
+      "moodId": [
+        9
+      ]
     },
     {
       "id": "OL46390W",
@@ -188,7 +241,10 @@
       "image": "https://covers.openlibrary.org/b/id/6502517-M.jpg",
       "author": "Isaac Asimov",
       "category": "science-fiction",
-      "moodId": [9, 10]
+      "moodId": [
+        9,
+        10
+      ]
     },
     {
       "id": "OL19074847W",
@@ -198,7 +254,10 @@
       "image": "https://covers.openlibrary.org/b/id/8758252-M.jpg",
       "author": "Richard Powers",
       "category": "fiction",
-      "moodId": [9, 7]
+      "moodId": [
+        9,
+        7
+      ]
     },
     {
       "id": "OL3585129W",
@@ -208,7 +267,9 @@
       "image": "https://covers.openlibrary.org/b/id/6694958-M.jpg",
       "author": "Diane Hoh, Karyn O'Bryant",
       "category": "fiction",
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": "OL679359W",
@@ -218,7 +279,9 @@
       "image": "https://covers.openlibrary.org/b/id/46488-M.jpg",
       "author": "Neil Gaiman",
       "category": "fiction",
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": "OL17607742W",
@@ -228,7 +291,10 @@
       "image": "https://covers.openlibrary.org/b/id/7892681-M.jpg",
       "author": "Naomi Alderman",
       "category": "science-fiction",
-      "moodId": [7, 9]
+      "moodId": [
+        7,
+        9
+      ]
     },
     {
       "id": "OL2216967W",
@@ -238,7 +304,10 @@
       "image": "https://covers.openlibrary.org/b/id/9262799-M.jpg",
       "author": "Percy Lubbock, Percy, Lubbock, Percy Lubbock",
       "category": "fiction",
-      "moodId": [6, 7]
+      "moodId": [
+        6,
+        7
+      ]
     },
     {
       "id": "OL1682158W",
@@ -248,7 +317,9 @@
       "image": "https://covers.openlibrary.org/b/id/3992233-M.jpg",
       "author": "Paul Auster",
       "category": "fiction",
-      "moodId": [9]
+      "moodId": [
+        9
+      ]
     },
     {
       "id": "OL20866284W",
@@ -258,7 +329,9 @@
       "image": "https://covers.openlibrary.org/b/id/10183951-M.jpg",
       "author": "Arundhati Roy",
       "category": "non-fiction",
-      "moodId": [7]
+      "moodId": [
+        7
+      ]
     },
     {
       "id": "OL17401W",
@@ -268,7 +341,11 @@
       "image": "https://covers.openlibrary.org/b/id/3742918-M.jpg",
       "author": "Arthur C. Clarke",
       "category": "science-fiction",
-      "moodId": [9, 10, 7]
+      "moodId": [
+        9,
+        10,
+        7
+      ]
     },
     {
       "id": "OL14958898W",
@@ -278,7 +355,11 @@
       "image": "https://covers.openlibrary.org/b/id/12689866-M.jpg",
       "author": "Isaac Asimov",
       "category": "science-fiction",
-      "moodId": [9, 10, 7]
+      "moodId": [
+        9,
+        10,
+        7
+      ]
     },
     {
       "id": "OL17345497W",
@@ -288,7 +369,10 @@
       "image": "https://covers.openlibrary.org/b/id/7913176-M.jpg",
       "author": "Viet Thanh Nguyen",
       "category": "history",
-      "moodId": [3, 7]
+      "moodId": [
+        3,
+        7
+      ]
     },
     {
       "id": "OL15130687W",
@@ -298,7 +382,9 @@
       "image": "https://covers.openlibrary.org/b/id/9407725-M.jpg",
       "author": "Theodore L. Brown",
       "category": "science",
-      "moodId": [9]
+      "moodId": [
+        9
+      ]
     },
     {
       "id": "OL3792044W",
@@ -308,7 +394,11 @@
       "image": "https://covers.openlibrary.org/b/id/854989-M.jpg",
       "author": "Wallace D. Wattles",
       "category": "non-fiction",
-      "moodId": [7, 9, 6]
+      "moodId": [
+        7,
+        9,
+        6
+      ]
     },
     {
       "id": "OL15899W",
@@ -318,7 +408,9 @@
       "image": "https://covers.openlibrary.org/b/id/94249-M.jpg",
       "author": "James Gleick",
       "category": "science",
-      "moodId": [9]
+      "moodId": [
+        9
+      ]
     },
     {
       "id": "OL14996328W",
@@ -328,7 +420,10 @@
       "image": "https://covers.openlibrary.org/b/id/5437853-M.jpg",
       "author": "McGraw-Hill",
       "category": "science",
-      "moodId": [9, 6]
+      "moodId": [
+        9,
+        6
+      ]
     },
     {
       "id": "OL3902892W",
@@ -338,7 +433,9 @@
       "image": "https://covers.openlibrary.org/b/id/431011-M.jpg",
       "author": "Robert B. Cialdini",
       "category": "psychology",
-      "moodId": [7]
+      "moodId": [
+        7
+      ]
     },
     {
       "id": "OL10951W",
@@ -348,7 +445,9 @@
       "image": "https://covers.openlibrary.org/b/id/6680603-M.jpg",
       "author": "Ben Goldacre",
       "category": "science",
-      "moodId": [9]
+      "moodId": [
+        9
+      ]
     },
     {
       "id": "OL3275955W",
@@ -358,7 +457,10 @@
       "image": "https://covers.openlibrary.org/b/id/193281-M.jpg",
       "author": "J. Glenn Brookshear",
       "category": "science",
-      "moodId": [9, 6]
+      "moodId": [
+        9,
+        6
+      ]
     },
     {
       "id": "OL17879515W",
@@ -368,7 +470,10 @@
       "image": "https://covers.openlibrary.org/b/id/8188891-M.jpg",
       "author": "Peter C. Brown",
       "category": "psychology",
-      "moodId": [9, 6]
+      "moodId": [
+        9,
+        6
+      ]
     },
     {
       "id": "OL66393W",
@@ -378,7 +483,10 @@
       "image": "https://covers.openlibrary.org/b/id/10367950-M.jpg",
       "author": "G. Tyler Miller",
       "category": "science",
-      "moodId": [9, 6]
+      "moodId": [
+        9,
+        6
+      ]
     },
     {
       "id": "OL46214W",
@@ -388,7 +496,9 @@
       "image": "https://covers.openlibrary.org/b/id/13148661-M.jpg",
       "author": "Isaac Asimov",
       "category": "science",
-      "moodId": [9]
+      "moodId": [
+        9
+      ]
     },
     {
       "id": "OL29606W",
@@ -398,7 +508,10 @@
       "image": "https://covers.openlibrary.org/b/id/1108771-M.jpg",
       "author": "Edward J. Tarbuck",
       "category": "science",
-      "moodId": [3, 9]
+      "moodId": [
+        3,
+        9
+      ]
     },
     {
       "id": "OL15683431W",
@@ -408,7 +521,10 @@
       "image": "https://covers.openlibrary.org/b/id/14426425-M.jpg",
       "author": "Joshua Foer",
       "category": "psychology",
-      "moodId": [3, 9]
+      "moodId": [
+        3,
+        9
+      ]
     },
     {
       "id": "OL17357767W",
@@ -418,7 +534,10 @@
       "image": "https://covers.openlibrary.org/b/id/8042539-M.jpg",
       "author": "Brian Christian",
       "category": "science",
-      "moodId": [9, 6]
+      "moodId": [
+        9,
+        6
+      ]
     },
     {
       "id": "OL3268935W",
@@ -428,7 +547,10 @@
       "image": "https://covers.openlibrary.org/b/id/4031224-M.jpg",
       "author": "William D. Callister",
       "category": "science",
-      "moodId": [9, 10]
+      "moodId": [
+        9,
+        10
+      ]
     },
     {
       "id": "OL20676292W",
@@ -438,7 +560,10 @@
       "image": "https://covers.openlibrary.org/b/id/9346507-M.jpg",
       "author": "H.C. Verma",
       "category": "science",
-      "moodId": [9, 10]
+      "moodId": [
+        9,
+        10
+      ]
     },
     {
       "id": "OL2747493W",
@@ -448,7 +573,10 @@
       "image": "https://covers.openlibrary.org/b/id/54238-M.jpg",
       "author": "William P. Cunningham, Mary Ann Cunningham, Barbara Woodworth Saigo",
       "category": "science",
-      "moodId": [9, 6]
+      "moodId": [
+        9,
+        6
+      ]
     },
     {
       "id": "OL8584971W",
@@ -458,7 +586,9 @@
       "image": "https://covers.openlibrary.org/b/id/1572574-M.jpg",
       "author": "Carl French, C. S. French",
       "category": "science",
-      "moodId": [9]
+      "moodId": [
+        9
+      ]
     },
     {
       "id": "OL18199470W",
@@ -468,7 +598,10 @@
       "image": "https://covers.openlibrary.org/b/id/8352403-M.jpg",
       "author": "Barbara A. Oakley",
       "category": "psychology",
-      "moodId": [9, 6]
+      "moodId": [
+        9,
+        6
+      ]
     },
     {
       "id": "OL15596858W",
@@ -478,7 +611,10 @@
       "image": "https://covers.openlibrary.org/b/id/10679931-M.jpg",
       "author": "Janice Thompson",
       "category": "science",
-      "moodId": [9, 6]
+      "moodId": [
+        9,
+        6
+      ]
     },
     {
       "id": "OL4301885W",
@@ -488,7 +624,9 @@
       "image": "https://covers.openlibrary.org/b/id/9935503-M.jpg",
       "author": "Frank S. Budnick",
       "category": "science",
-      "moodId": [9]
+      "moodId": [
+        9
+      ]
     },
     {
       "id": "OL1826387W",
@@ -498,7 +636,11 @@
       "image": "https://covers.openlibrary.org/b/id/10572268-M.jpg",
       "author": "Ernest F. Haeussler",
       "category": "science",
-      "moodId": [9, 10, 6]
+      "moodId": [
+        9,
+        10,
+        6
+      ]
     },
     {
       "id": "OL15152112W",
@@ -508,7 +650,9 @@
       "image": "https://covers.openlibrary.org/b/id/6562639-M.jpg",
       "author": "G. Mallinson",
       "category": "science",
-      "moodId": [9]
+      "moodId": [
+        9
+      ]
     },
     {
       "id": "OL2694021W",
@@ -518,7 +662,10 @@
       "image": "https://covers.openlibrary.org/b/id/4036679-M.jpg",
       "author": "Gilbert M. Masters",
       "category": "science",
-      "moodId": [9, 6]
+      "moodId": [
+        9,
+        6
+      ]
     },
     {
       "id": "OL1922611W",
@@ -528,7 +675,9 @@
       "image": "https://covers.openlibrary.org/b/id/7136779-M.jpg",
       "author": "Judith L. Gersting",
       "category": "science",
-      "moodId": [9]
+      "moodId": [
+        9
+      ]
     },
     {
       "id": "OL2915925W",
@@ -538,7 +687,10 @@
       "image": "https://covers.openlibrary.org/b/id/4434138-M.jpg",
       "author": "Norman N. Potter",
       "category": "science",
-      "moodId": [9, 6]
+      "moodId": [
+        9,
+        6
+      ]
     },
     {
       "id": "OL4321141W",
@@ -548,7 +700,11 @@
       "image": "https://covers.openlibrary.org/b/id/744854-M.jpg",
       "author": "Donna Tartt",
       "category": "fiction",
-      "moodId": [8, 3, 7]
+      "moodId": [
+        8,
+        3,
+        7
+      ]
     },
     {
       "id": "OL50283W",
@@ -558,7 +714,9 @@
       "image": "https://covers.openlibrary.org/b/id/10592817-M.jpg",
       "author": "Howard Zinn",
       "category": "history",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": "OL17075811W",
@@ -568,7 +726,9 @@
       "image": "https://covers.openlibrary.org/b/id/8634250-M.jpg",
       "author": "Yuval Noah Harari",
       "category": "history",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": "OL1892617W",
@@ -578,7 +738,10 @@
       "image": "https://covers.openlibrary.org/b/id/10432365-M.jpg",
       "author": "Stephen Hawking",
       "category": "science",
-      "moodId": [3, 9]
+      "moodId": [
+        3,
+        9
+      ]
     },
     {
       "id": "OL74128W",
@@ -588,7 +751,9 @@
       "image": "https://covers.openlibrary.org/b/id/12725620-M.jpg",
       "author": "Bill Bryson",
       "category": "science",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": "OL1088357W",
@@ -598,7 +763,10 @@
       "image": "https://covers.openlibrary.org/b/id/405359-M.jpg",
       "author": "Bertrand Russell",
       "category": "philosophy",
-      "moodId": [3, 7]
+      "moodId": [
+        3,
+        7
+      ]
     },
     {
       "id": "OL1629183W",
@@ -608,7 +776,9 @@
       "image": "https://covers.openlibrary.org/b/id/6682021-M.jpg",
       "author": "Teodoro A. Agoncillo",
       "category": "history",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": "OL1108523W",
@@ -618,7 +788,9 @@
       "image": "https://covers.openlibrary.org/b/id/121255-M.jpg",
       "author": "Arnold J. Toynbee",
       "category": "history",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": "OL16026786W",
@@ -628,7 +800,10 @@
       "image": "https://covers.openlibrary.org/b/id/6873606-M.jpg",
       "author": "Mark Kurlansky",
       "category": "non-fiction",
-      "moodId": [3, 7]
+      "moodId": [
+        3,
+        7
+      ]
     },
     {
       "id": "OL2024851W",
@@ -638,7 +813,9 @@
       "image": "https://covers.openlibrary.org/b/id/8237922-M.jpg",
       "author": "Paul S. Boyer",
       "category": "history",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": "OL2056818W",
@@ -648,7 +825,9 @@
       "image": "https://covers.openlibrary.org/b/id/10210168-M.jpg",
       "author": "Art Spiegelman",
       "category": "graphic",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": "OL5814543W",
@@ -658,7 +837,10 @@
       "image": "https://covers.openlibrary.org/b/id/251178-M.jpg",
       "author": "Nicole Krauss",
       "category": "romance",
-      "moodId": [4, 3]
+      "moodId": [
+        4,
+        3
+      ]
     },
     {
       "id": "OL922430W",
@@ -668,7 +850,11 @@
       "image": "https://covers.openlibrary.org/b/id/223463-M.jpg",
       "author": "Jostein Gaarder",
       "category": "philosophy",
-      "moodId": [4, 3, 7]
+      "moodId": [
+        4,
+        3,
+        7
+      ]
     },
     {
       "id": "OL15100470W",
@@ -678,7 +864,9 @@
       "image": "https://covers.openlibrary.org/b/id/8579619-M.jpg",
       "author": "Bill Bryson",
       "category": "history",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": "OL1073956W",
@@ -688,7 +876,11 @@
       "image": "https://covers.openlibrary.org/b/id/7240225-M.jpg",
       "author": "Will Durant, Ariel Durant",
       "category": "history",
-      "moodId": [3, 7, 6]
+      "moodId": [
+        3,
+        7,
+        6
+      ]
     },
     {
       "id": "OL3477033W",
@@ -698,7 +890,9 @@
       "image": "https://covers.openlibrary.org/b/id/6286058-M.jpg",
       "author": "R. R. Palmer, Palmer, Joel G. Colton",
       "category": "history",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": "OL29921W",
@@ -708,7 +902,10 @@
       "image": "https://covers.openlibrary.org/b/id/596109-M.jpg",
       "author": "Marilyn Stokstad, Margaret A. Oppenheimer",
       "category": "non-fiction",
-      "moodId": [3, 6]
+      "moodId": [
+        3,
+        6
+      ]
     },
     {
       "id": "OL15678068W",
@@ -718,7 +915,9 @@
       "image": "https://covers.openlibrary.org/b/id/9829028-M.jpg",
       "author": "Ἡρόδοτος",
       "category": "history",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": "OL16305918W",
@@ -728,7 +927,10 @@
       "image": "https://covers.openlibrary.org/b/id/6974595-M.jpg",
       "author": "Nigel Kelly",
       "category": "history",
-      "moodId": [3, 6]
+      "moodId": [
+        3,
+        6
+      ]
     },
     {
       "id": "OL26443093W",
@@ -738,7 +940,12 @@
       "image": "https://covers.openlibrary.org/b/id/12468631-M.jpg",
       "author": "R. F. Kuang",
       "category": "fiction",
-      "moodId": [9, 10, 3, 7]
+      "moodId": [
+        9,
+        10,
+        3,
+        7
+      ]
     },
     {
       "id": "OL15413799W",
@@ -748,7 +955,11 @@
       "image": "https://covers.openlibrary.org/b/id/7072428-M.jpg",
       "author": "William Gibson",
       "category": "fiction",
-      "moodId": [8, 3, 7]
+      "moodId": [
+        8,
+        3,
+        7
+      ]
     },
     {
       "id": "OL8074094W",
@@ -758,7 +969,9 @@
       "image": "https://covers.openlibrary.org/b/id/4617698-M.jpg",
       "author": "History",
       "category": "history",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": "OL19666939W",
@@ -768,7 +981,9 @@
       "image": "https://covers.openlibrary.org/b/id/8963642-M.jpg",
       "author": "Peter Frankopan",
       "category": "history",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": "OL480820W",
@@ -778,7 +993,9 @@
       "image": "https://covers.openlibrary.org/b/id/253170-M.jpg",
       "author": "George Brown Tindall, David Emory Shi",
       "category": "history",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": "OL17762235W",
@@ -788,7 +1005,11 @@
       "image": "https://covers.openlibrary.org/b/id/8912677-M.jpg",
       "author": "Siddhartha Mukherjee, Dennis Boutsikaris",
       "category": "science",
-      "moodId": [3, 7, 9]
+      "moodId": [
+        3,
+        7,
+        9
+      ]
     },
     {
       "id": "OL15692701W",
@@ -798,7 +1019,9 @@
       "image": "https://covers.openlibrary.org/b/id/6995217-M.jpg",
       "author": "Friedrich Nietzsche",
       "category": "philosophy",
-      "moodId": [7]
+      "moodId": [
+        7
+      ]
     },
     {
       "id": "OL98172W",
@@ -808,7 +1031,9 @@
       "image": "https://covers.openlibrary.org/b/id/5586642-M.jpg",
       "author": "Friedrich Nietzsche",
       "category": "philosophy",
-      "moodId": [7]
+      "moodId": [
+        7
+      ]
     },
     {
       "id": "OL498793W",
@@ -818,7 +1043,9 @@
       "image": "https://covers.openlibrary.org/b/id/995503-M.jpg",
       "author": "Franz Kafka",
       "category": "non-fiction",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": "OL7xK42Qp",
@@ -828,7 +1055,12 @@
       "image": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/1.png",
       "author": "J.K. Rowling",
       "category": "science-fiction",
-      "moodId": [9, 10, 3, 7]
+      "moodId": [
+        9,
+        10,
+        3,
+        7
+      ]
     },
     {
       "id": "Qm38Lz9Rt",
@@ -838,7 +1070,11 @@
       "image": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/2.png",
       "author": "J.K. Rowling",
       "category": "science-fiction",
-      "moodId": [9, 10, 3]
+      "moodId": [
+        9,
+        10,
+        3
+      ]
     },
     {
       "id": "B5vN81Xa",
@@ -848,7 +1084,11 @@
       "image": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/3.png",
       "author": "J.K. Rowling",
       "category": "science-fiction",
-      "moodId": [9, 10, 3]
+      "moodId": [
+        9,
+        10,
+        3
+      ]
     },
     {
       "id": "Tq64Wp2Ms",
@@ -858,7 +1098,11 @@
       "image": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/4.png",
       "author": "J.K. Rowling",
       "category": "science-fiction",
-      "moodId": [9, 10, 3]
+      "moodId": [
+        9,
+        10,
+        3
+      ]
     },
     {
       "id": "H9rC27Vke",
@@ -868,7 +1112,12 @@
       "image": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/5.png",
       "author": "J.K. Rowling",
       "category": "science-fiction",
-      "moodId": [9, 10, 8, 3]
+      "moodId": [
+        9,
+        10,
+        8,
+        3
+      ]
     },
     {
       "id": "N4sYp73Dc",
@@ -878,7 +1127,11 @@
       "image": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/6.png",
       "author": "J.K. Rowling",
       "category": "science-fiction",
-      "moodId": [9, 10, 7]
+      "moodId": [
+        9,
+        10,
+        7
+      ]
     },
     {
       "id": "W8fG21Kmb",
@@ -888,7 +1141,12 @@
       "image": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/7.png",
       "author": "J.K. Rowling",
       "category": "science-fiction",
-      "moodId": [9, 10, 8, 3]
+      "moodId": [
+        9,
+        10,
+        8,
+        3
+      ]
     },
     {
       "id": "Zp46Mx8Lu",
@@ -898,9 +1156,12 @@
       "image": "https://raw.githubusercontent.com/fedeperin/potterapi/main/public/images/covers/8.png",
       "author": "J.K. Rowling",
       "category": "science-fiction",
-      "moodId": [9, 10, 3]
+      "moodId": [
+        9,
+        10,
+        3
+      ]
     },
-
     {
       "id": 3001,
       "title": "The Plague",
@@ -909,7 +1170,10 @@
       "image": "https://covers.openlibrary.org/b/id/14950707-L.jpg",
       "author": "Albert Camus",
       "category": "philosophy",
-      "moodId": [2, 7]
+      "moodId": [
+        2,
+        7
+      ]
     },
     {
       "id": 3002,
@@ -919,7 +1183,10 @@
       "image": "https://covers.openlibrary.org/b/id/15082861-L.jpg",
       "author": "Franz Kafka",
       "category": "philosophy",
-      "moodId": [7, 8]
+      "moodId": [
+        7,
+        8
+      ]
     },
     {
       "id": 3003,
@@ -929,7 +1196,11 @@
       "image": "https://covers.openlibrary.org/b/id/12513880-L.jpg",
       "author": "Mary Wollstonecraft Shelley",
       "category": "science-fiction",
-      "moodId": [8, 7, 9]
+      "moodId": [
+        8,
+        7,
+        9
+      ]
     },
     {
       "id": 3004,
@@ -939,7 +1210,11 @@
       "image": "https://covers.openlibrary.org/b/id/15049576-L.jpg",
       "author": "Daphne du Maurier",
       "category": "romance",
-      "moodId": [4, 8, 2]
+      "moodId": [
+        4,
+        8,
+        2
+      ]
     },
     {
       "id": 3005,
@@ -949,7 +1224,11 @@
       "image": "https://covers.openlibrary.org/b/id/15121797-L.jpg",
       "author": "L. Frank Baum",
       "category": "fiction",
-      "moodId": [10, 9, 1]
+      "moodId": [
+        10,
+        9,
+        1
+      ]
     },
     {
       "id": 3006,
@@ -959,7 +1238,10 @@
       "image": "https://covers.openlibrary.org/b/id/8595954-L.jpg",
       "author": "Lewis Carroll",
       "category": "fiction",
-      "moodId": [10, 9]
+      "moodId": [
+        10,
+        9
+      ]
     },
     {
       "id": 3007,
@@ -969,7 +1251,11 @@
       "image": "https://covers.openlibrary.org/b/id/12621992-L.jpg",
       "author": "Herman Melville",
       "category": "fiction",
-      "moodId": [7, 8, 9]
+      "moodId": [
+        7,
+        8,
+        9
+      ]
     },
     {
       "id": 3008,
@@ -979,7 +1265,10 @@
       "image": "https://covers.openlibrary.org/b/id/14858668-L.jpg",
       "author": "Hermann Hesse",
       "category": "philosophy",
-      "moodId": [7, 2]
+      "moodId": [
+        7,
+        2
+      ]
     },
     {
       "id": 3009,
@@ -989,7 +1278,11 @@
       "image": "https://covers.openlibrary.org/b/id/6562532-L.jpg",
       "author": "Hermann Hesse",
       "category": "philosophy",
-      "moodId": [5, 7, 6]
+      "moodId": [
+        5,
+        7,
+        6
+      ]
     },
     {
       "id": 3010,
@@ -999,7 +1292,10 @@
       "image": "https://covers.openlibrary.org/b/id/15164891-L.jpg",
       "author": "Simone de Beauvoir",
       "category": "philosophy",
-      "moodId": [7, 6]
+      "moodId": [
+        7,
+        6
+      ]
     },
     {
       "id": 3011,
@@ -1009,7 +1305,11 @@
       "image": "https://covers.openlibrary.org/b/id/599333-L.jpg",
       "author": "Pablo Neruda",
       "category": "romance",
-      "moodId": [4, 2, 3]
+      "moodId": [
+        4,
+        2,
+        3
+      ]
     },
     {
       "id": 3012,
@@ -1019,7 +1319,10 @@
       "image": "https://covers.openlibrary.org/b/id/597824-L.jpg",
       "author": "Osamu Dazai",
       "category": "fiction",
-      "moodId": [2, 3]
+      "moodId": [
+        2,
+        3
+      ]
     },
     {
       "id": 3013,
@@ -1029,7 +1332,10 @@
       "image": "https://covers.openlibrary.org/b/id/14314700-L.jpg",
       "author": "Oscar Wilde",
       "category": "fiction",
-      "moodId": [8, 7]
+      "moodId": [
+        8,
+        7
+      ]
     },
     {
       "id": 3014,
@@ -1039,7 +1345,10 @@
       "image": "https://covers.openlibrary.org/b/id/14561973-L.jpg",
       "author": "Agatha Christie",
       "category": "fiction",
-      "moodId": [9, 8]
+      "moodId": [
+        9,
+        8
+      ]
     },
     {
       "id": 3015,
@@ -1049,7 +1358,11 @@
       "image": "https://covers.openlibrary.org/b/id/8283869-L.jpg",
       "author": "Madeline Miller",
       "category": "fiction",
-      "moodId": [10, 7, 4]
+      "moodId": [
+        10,
+        7,
+        4
+      ]
     },
     {
       "id": 3016,
@@ -1059,7 +1372,11 @@
       "image": "https://covers.openlibrary.org/b/id/10530430-L.jpg",
       "author": "Inio Asano",
       "category": "graphic",
-      "moodId": [8, 2, 7]
+      "moodId": [
+        8,
+        2,
+        7
+      ]
     },
     {
       "id": 3017,
@@ -1069,7 +1386,10 @@
       "image": "https://covers.openlibrary.org/b/id/15142271-L.jpg",
       "author": "Osamu Dazai",
       "category": "fiction",
-      "moodId": [2, 8]
+      "moodId": [
+        2,
+        8
+      ]
     },
     {
       "id": 3018,
@@ -1079,7 +1399,10 @@
       "image": "https://covers.openlibrary.org/b/id/7961325-L.jpg",
       "author": "Annie Ernaux",
       "category": "non-fiction",
-      "moodId": [2, 7]
+      "moodId": [
+        2,
+        7
+      ]
     },
     {
       "id": 3019,
@@ -1089,7 +1412,11 @@
       "image": "https://covers.openlibrary.org/b/id/10457483-L.jpg",
       "author": "Milton Friedman",
       "category": "non-fiction",
-      "moodId": [7, 6, 9]
+      "moodId": [
+        7,
+        6,
+        9
+      ]
     },
     {
       "id": 3020,
@@ -1099,7 +1426,10 @@
       "image": "https://covers.openlibrary.org/b/id/368393-L.jpg",
       "author": "Leo Tolstoy",
       "category": "philosophy",
-      "moodId": [2, 7]
+      "moodId": [
+        2,
+        7
+      ]
     },
     {
       "id": 3021,
@@ -1109,7 +1439,11 @@
       "image": "https://covers.openlibrary.org/b/id/10817951-L.jpg",
       "author": "Milan Kundera",
       "category": "philosophy",
-      "moodId": [7, 4, 2]
+      "moodId": [
+        7,
+        4,
+        2
+      ]
     },
     {
       "id": 3022,
@@ -1119,7 +1453,11 @@
       "image": "Shahnameh",
       "author": "Ferdowsi",
       "category": "history",
-      "moodId": [3, 7, 10]
+      "moodId": [
+        3,
+        7,
+        10
+      ]
     },
     {
       "id": 3023,
@@ -1129,7 +1467,11 @@
       "image": "https://images.thalia.media/-/BF2000-2000/2814441944f1463c8502048af56d4223/divan-of-shams-of-tabriz-taschenbuch-jalal-al-din-rumi-englisch.jpeg",
       "author": "Rumi",
       "category": "philosophy",
-      "moodId": [4, 5, 7]
+      "moodId": [
+        4,
+        5,
+        7
+      ]
     },
     {
       "id": 3024,
@@ -1139,7 +1481,11 @@
       "image": "https://covers.openlibrary.org/b/id/7500110-L.jpg",
       "author": "Rumi",
       "category": "philosophy",
-      "moodId": [5, 7, 6]
+      "moodId": [
+        5,
+        7,
+        6
+      ]
     },
     {
       "id": 3025,
@@ -1149,7 +1495,11 @@
       "image": "https://m.media-amazon.com/images/I/51Q5nzJIpKL.jpg",
       "author": "Khayyam",
       "category": "philosophy",
-      "moodId": [2, 7, 3]
+      "moodId": [
+        2,
+        7,
+        3
+      ]
     },
     {
       "id": 3026,
@@ -1159,22 +1509,40 @@
       "image": "https://covers.openlibrary.org/b/id/103977-L.jpg",
       "author": "Attar of Nishabur ",
       "category": "philosophy",
-      "moodId": [5, 7, 6]
+      "moodId": [
+        5,
+        7,
+        6
+      ]
     },
     {
-  "id": 3027,
-  "title": "Funny in Farsi",
-  "pageCount": 224,
-  "description": "A memoir about growing up Iranian in America, exploring identity, immigration, culture shock, family, and the humorous challenges of adapting to a new culture.",
-  "image": "https://covers.openlibrary.org/b/id/606070-L.jpg",
-  "author": "Firoozeh Dumas",
-  "category": "non-fiction",
-  "moodId": [
-    1,
-    3,
-    9
-  ]
-}
+      "id": 3027,
+      "title": "Funny in Farsi",
+      "pageCount": 224,
+      "description": "A memoir about growing up Iranian in America, exploring identity, immigration, culture shock, family, and the humorous challenges of adapting to a new culture.",
+      "image": "https://covers.openlibrary.org/b/id/606070-L.jpg",
+      "author": "Firoozeh Dumas",
+      "category": "non-fiction",
+      "moodId": [
+        1,
+        3,
+        9
+      ]
+    },
+    {
+      "id": "jnRpMyC",
+      "title": "Existential Psychotherapy",
+      "pageCount": 480,
+      "description": "A comprehensive exploration of existential psychotherapy centered on four fundamental concerns of human existence: death, freedom, existential isolation, and meaninglessness.",
+      "image": "",
+      "author": "Irvin D. Yalom",
+      "category": "psychology",
+      "moodId": [
+        7,
+        6,
+        9
+      ]
+    }
   ],
   "songs": [
     {
@@ -1182,1400 +1550,1873 @@
       "name": "Bohemian Rhapsody",
       "singer/composer": "Queen / Freddie Mercury",
       "genre": "rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1002,
       "name": "Imagine",
       "singer/composer": "John Lennon",
       "genre": "pop",
-      "moodId": [3, 1]
+      "moodId": [
+        3,
+        1
+      ]
     },
     {
       "id": 1003,
       "name": "Billie Jean",
       "singer/composer": "Michael Jackson",
       "genre": "pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1004,
       "name": "Like a Rolling Stone",
       "singer/composer": "Bob Dylan",
       "genre": "folk rock",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1005,
       "name": "Respect",
       "singer/composer": "Aretha Franklin",
       "genre": "soul",
-      "moodId": [2, 7]
+      "moodId": [
+        2,
+        7
+      ]
     },
     {
       "id": 1006,
       "name": "What's Going On",
       "singer/composer": "Marvin Gaye",
       "genre": "soul",
-      "moodId": [2, 7]
+      "moodId": [
+        2,
+        7
+      ]
     },
     {
       "id": 1007,
       "name": "Purple Haze",
       "singer/composer": "Jimi Hendrix",
       "genre": "psychedelic rock",
-      "moodId": [8, 9]
+      "moodId": [
+        8,
+        9
+      ]
     },
     {
       "id": 1008,
       "name": "Hotel California",
       "singer/composer": "Eagles",
       "genre": "rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1009,
       "name": "Stairway to Heaven",
       "singer/composer": "Led Zeppelin",
       "genre": "rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1010,
       "name": "Yesterday",
       "singer/composer": "The Beatles",
       "genre": "pop rock",
-      "moodId": [2, 3, 1]
+      "moodId": [
+        2,
+        3,
+        1
+      ]
     },
     {
       "id": 1011,
       "name": "Let It Be",
       "singer/composer": "The Beatles",
       "genre": "pop rock",
-      "moodId": [3, 1]
+      "moodId": [
+        3,
+        1
+      ]
     },
     {
       "id": 1012,
       "name": "Hey Jude",
       "singer/composer": "The Beatles",
       "genre": "rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1013,
       "name": "Sweet Child o' Mine",
       "singer/composer": "Guns N' Roses",
       "genre": "hard rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1014,
       "name": "Smells Like Teen Spirit",
       "singer/composer": "Nirvana",
       "genre": "grunge",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1015,
       "name": "Wonderwall",
       "singer/composer": "Oasis",
       "genre": "Britpop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1016,
       "name": "Losing My Religion",
       "singer/composer": "R.E.M.",
       "genre": "alternative rock",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1017,
       "name": "Creep",
       "singer/composer": "Radiohead",
       "genre": "alternative rock",
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": 1018,
       "name": "Karma Police",
       "singer/composer": "Radiohead",
       "genre": "alternative rock",
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": 1019,
       "name": "Dreams",
       "singer/composer": "Fleetwood Mac",
       "genre": "soft rock",
-      "moodId": [2, 1]
+      "moodId": [
+        2,
+        1
+      ]
     },
     {
       "id": 1020,
       "name": "Go Your Own Way",
       "singer/composer": "Fleetwood Mac",
       "genre": "rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1021,
       "name": "Born to Run",
       "singer/composer": "Bruce Springsteen",
       "genre": "rock",
-      "moodId": [3, 7]
+      "moodId": [
+        3,
+        7
+      ]
     },
     {
       "id": 1022,
       "name": "Dancing in the Dark",
       "singer/composer": "Bruce Springsteen",
       "genre": "rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1023,
       "name": "Paint It, Black",
       "singer/composer": "The Rolling Stones",
       "genre": "rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1024,
       "name": "(I Can't Get No) Satisfaction",
       "singer/composer": "The Rolling Stones",
       "genre": "rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1025,
       "name": "London Calling",
       "singer/composer": "The Clash",
       "genre": "punk rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1026,
       "name": "Your Song",
       "singer/composer": "Elton John",
       "genre": "pop rock",
-      "moodId": [4, 1]
+      "moodId": [
+        4,
+        1
+      ]
     },
     {
       "id": 1027,
       "name": "Rocket Man",
       "singer/composer": "Elton John",
       "genre": "pop rock",
-      "moodId": [1, 9]
+      "moodId": [
+        1,
+        9
+      ]
     },
     {
       "id": 1028,
       "name": "Hallelujah",
       "singer/composer": "Leonard Cohen",
       "genre": "folk",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1029,
       "name": "Ain't No Sunshine",
       "singer/composer": "Bill Withers",
       "genre": "soul",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1030,
       "name": "Let's Stay Together",
       "singer/composer": "Al Green",
       "genre": "soul",
-      "moodId": [4, 2]
+      "moodId": [
+        4,
+        2
+      ]
     },
     {
       "id": 1031,
       "name": "Superstition",
       "singer/composer": "Stevie Wonder",
       "genre": "funk",
-      "moodId": [1, 7]
+      "moodId": [
+        1,
+        7
+      ]
     },
     {
       "id": 1032,
       "name": "Isn't She Lovely",
       "singer/composer": "Stevie Wonder",
       "genre": "soul",
-      "moodId": [4, 2, 1]
+      "moodId": [
+        4,
+        2,
+        1
+      ]
     },
     {
       "id": 1033,
       "name": "A Change Is Gonna Come",
       "singer/composer": "Sam Cooke",
       "genre": "soul",
-      "moodId": [2, 7]
+      "moodId": [
+        2,
+        7
+      ]
     },
     {
       "id": 1034,
       "name": "Stand by Me",
       "singer/composer": "Ben E. King",
       "genre": "soul",
-      "moodId": [2, 3]
+      "moodId": [
+        2,
+        3
+      ]
     },
     {
       "id": 1035,
       "name": "My Girl",
       "singer/composer": "The Temptations",
       "genre": "soul",
-      "moodId": [2, 3]
+      "moodId": [
+        2,
+        3
+      ]
     },
     {
       "id": 1036,
       "name": "I Heard It Through the Grapevine",
       "singer/composer": "Marvin Gaye",
       "genre": "soul",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1037,
       "name": "What a Wonderful World",
       "singer/composer": "Louis Armstrong",
       "genre": "jazz",
-      "moodId": [3, 1]
+      "moodId": [
+        3,
+        1
+      ]
     },
     {
       "id": 1038,
       "name": "Feeling Good",
       "singer/composer": "Nina Simone",
       "genre": "jazz",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1039,
       "name": "Strange Fruit",
       "singer/composer": "Billie Holiday",
       "genre": "jazz",
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": 1040,
       "name": "Summertime",
       "singer/composer": "Ella Fitzgerald / Louis Armstrong",
       "genre": "jazz",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1041,
       "name": "Take Five",
       "singer/composer": "Dave Brubeck Quartet",
       "genre": "jazz",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1042,
       "name": "My Favorite Things",
       "singer/composer": "John Coltrane",
       "genre": "jazz",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1043,
       "name": "Fly Me to the Moon",
       "singer/composer": "Frank Sinatra",
       "genre": "jazz",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1044,
       "name": "New York, New York",
       "singer/composer": "Frank Sinatra",
       "genre": "traditional pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1045,
       "name": "What'd I Say",
       "singer/composer": "Ray Charles",
       "genre": "rhythm and blues",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1046,
       "name": "Johnny B. Goode",
       "singer/composer": "Chuck Berry",
       "genre": "rock and roll",
-      "moodId": [3, 1]
+      "moodId": [
+        3,
+        1
+      ]
     },
     {
       "id": 1047,
       "name": "Hound Dog",
       "singer/composer": "Elvis Presley",
       "genre": "rock and roll",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1048,
       "name": "Jailhouse Rock",
       "singer/composer": "Elvis Presley",
       "genre": "rock and roll",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1049,
       "name": "Great Balls of Fire",
       "singer/composer": "Jerry Lee Lewis",
       "genre": "rock and roll",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1050,
       "name": "Tutti Frutti",
       "singer/composer": "Little Richard",
       "genre": "rock and roll",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1051,
       "name": "No Woman, No Cry",
       "singer/composer": "Bob Marley & The Wailers",
       "genre": "reggae",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1052,
       "name": "Redemption Song",
       "singer/composer": "Bob Marley",
       "genre": "reggae",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1053,
       "name": "Three Little Birds",
       "singer/composer": "Bob Marley & The Wailers",
       "genre": "reggae",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1054,
       "name": "Gasolina",
       "singer/composer": "Daddy Yankee",
       "genre": "reggaeton",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1055,
       "name": "Despacito",
       "singer/composer": "Luis Fonsi / Daddy Yankee",
       "genre": "Latin pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1056,
       "name": "La Bamba",
       "singer/composer": "Ritchie Valens",
       "genre": "rock and roll",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1057,
       "name": "Macarena",
       "singer/composer": "Los del Río",
       "genre": "Latin pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1058,
       "name": "Livin' la Vida Loca",
       "singer/composer": "Ricky Martin",
       "genre": "Latin pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1059,
       "name": "Smooth",
       "singer/composer": "Santana / Rob Thomas",
       "genre": "Latin rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1060,
       "name": "Hips Don't Lie",
       "singer/composer": "Shakira",
       "genre": "Latin pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1061,
       "name": "Crazy in Love",
       "singer/composer": "Beyoncé",
       "genre": "R&B",
-      "moodId": [4]
+      "moodId": [
+        4
+      ]
     },
     {
       "id": 1062,
       "name": "Single Ladies (Put a Ring on It)",
       "singer/composer": "Beyoncé",
       "genre": "R&B",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1063,
       "name": "Rolling in the Deep",
       "singer/composer": "Adele",
       "genre": "soul pop",
-      "moodId": [2, 1]
+      "moodId": [
+        2,
+        1
+      ]
     },
     {
       "id": 1064,
       "name": "Someone Like You",
       "singer/composer": "Adele",
       "genre": "pop",
-      "moodId": [4, 2, 1]
+      "moodId": [
+        4,
+        2,
+        1
+      ]
     },
     {
       "id": 1065,
       "name": "Hello",
       "singer/composer": "Adele",
       "genre": "pop",
-      "moodId": [4, 1]
+      "moodId": [
+        4,
+        1
+      ]
     },
     {
       "id": 1066,
       "name": "Bad Guy",
       "singer/composer": "Billie Eilish",
       "genre": "electropop",
-      "moodId": [8, 1]
+      "moodId": [
+        8,
+        1
+      ]
     },
     {
       "id": 1067,
       "name": "Blinding Lights",
       "singer/composer": "The Weeknd",
       "genre": "synth-pop",
-      "moodId": [8, 1, 9]
+      "moodId": [
+        8,
+        1,
+        9
+      ]
     },
     {
       "id": 1068,
       "name": "Get Lucky",
       "singer/composer": "Daft Punk / Pharrell Williams",
       "genre": "electronic",
-      "moodId": [1, 9]
+      "moodId": [
+        1,
+        9
+      ]
     },
     {
       "id": 1069,
       "name": "One More Time",
       "singer/composer": "Daft Punk",
       "genre": "house",
-      "moodId": [3, 1, 9]
+      "moodId": [
+        3,
+        1,
+        9
+      ]
     },
     {
       "id": 1070,
       "name": "Around the World",
       "singer/composer": "Daft Punk",
       "genre": "house",
-      "moodId": [1, 9]
+      "moodId": [
+        1,
+        9
+      ]
     },
     {
       "id": 1071,
       "name": "Blue Monday",
       "singer/composer": "New Order",
       "genre": "synth-pop",
-      "moodId": [1, 9]
+      "moodId": [
+        1,
+        9
+      ]
     },
     {
       "id": 1072,
       "name": "Enjoy the Silence",
       "singer/composer": "Depeche Mode",
       "genre": "synth-pop",
-      "moodId": [2, 1, 9]
+      "moodId": [
+        2,
+        1,
+        9
+      ]
     },
     {
       "id": 1073,
       "name": "Take on Me",
       "singer/composer": "a-ha",
       "genre": "synth-pop",
-      "moodId": [1, 9]
+      "moodId": [
+        1,
+        9
+      ]
     },
     {
       "id": 1074,
       "name": "Sweet Dreams (Are Made of This)",
       "singer/composer": "Eurythmics",
       "genre": "synth-pop",
-      "moodId": [2, 1, 9]
+      "moodId": [
+        2,
+        1,
+        9
+      ]
     },
     {
       "id": 1075,
       "name": "Running Up That Hill",
       "singer/composer": "Kate Bush",
       "genre": "art pop",
-      "moodId": [8, 1]
+      "moodId": [
+        8,
+        1
+      ]
     },
     {
       "id": 1076,
       "name": "Lose Yourself",
       "singer/composer": "Eminem",
       "genre": "hip-hop",
-      "moodId": [7]
+      "moodId": [
+        7
+      ]
     },
     {
       "id": 1077,
       "name": "Juicy",
       "singer/composer": "The Notorious B.I.G.",
       "genre": "hip-hop",
-      "moodId": [7]
+      "moodId": [
+        7
+      ]
     },
     {
       "id": 1078,
       "name": "California Love",
       "singer/composer": "2Pac",
       "genre": "hip-hop",
-      "moodId": [4, 7]
+      "moodId": [
+        4,
+        7
+      ]
     },
     {
       "id": 1079,
       "name": "Changes",
       "singer/composer": "2Pac",
       "genre": "hip-hop",
-      "moodId": [7]
+      "moodId": [
+        7
+      ]
     },
     {
       "id": 1080,
       "name": "Nuthin' but a 'G' Thang",
       "singer/composer": "Dr. Dre / Snoop Dogg",
       "genre": "hip-hop",
-      "moodId": [7]
+      "moodId": [
+        7
+      ]
     },
     {
       "id": 1081,
       "name": "Straight Outta Compton",
       "singer/composer": "N.W.A.",
       "genre": "hip-hop",
-      "moodId": [7]
+      "moodId": [
+        7
+      ]
     },
     {
       "id": 1082,
       "name": "Fight the Power",
       "singer/composer": "Public Enemy",
       "genre": "hip-hop",
-      "moodId": [7]
+      "moodId": [
+        7
+      ]
     },
     {
       "id": 1083,
       "name": "Ms. Jackson",
       "singer/composer": "Outkast",
       "genre": "hip-hop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1084,
       "name": "HUMBLE.",
       "singer/composer": "Kendrick Lamar",
       "genre": "hip-hop",
-      "moodId": [7]
+      "moodId": [
+        7
+      ]
     },
     {
       "id": 1085,
       "name": "Alright",
       "singer/composer": "Kendrick Lamar",
       "genre": "hip-hop",
-      "moodId": [7]
+      "moodId": [
+        7
+      ]
     },
     {
       "id": 1086,
       "name": "No Scrubs",
       "singer/composer": "TLC",
       "genre": "R&B",
-      "moodId": [7]
+      "moodId": [
+        7
+      ]
     },
     {
       "id": 1087,
       "name": "Waterfalls",
       "singer/composer": "TLC",
       "genre": "R&B",
-      "moodId": [7]
+      "moodId": [
+        7
+      ]
     },
     {
       "id": 1088,
       "name": "Killing Me Softly",
       "singer/composer": "Fugees",
       "genre": "hip-hop soul",
-      "moodId": [2, 8]
+      "moodId": [
+        2,
+        8
+      ]
     },
     {
       "id": 1089,
       "name": "Crazy",
       "singer/composer": "Gnarls Barkley",
       "genre": "neo soul",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1090,
       "name": "Back to Black",
       "singer/composer": "Amy Winehouse",
       "genre": "soul",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1091,
       "name": "Rehab",
       "singer/composer": "Amy Winehouse",
       "genre": "soul",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1092,
       "name": "Torn",
       "singer/composer": "Natalie Imbruglia",
       "genre": "pop rock",
-      "moodId": [2, 1]
+      "moodId": [
+        2,
+        1
+      ]
     },
     {
       "id": 1093,
       "name": "Mr. Brightside",
       "singer/composer": "The Killers",
       "genre": "alternative rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1094,
       "name": "Seven Nation Army",
       "singer/composer": "The White Stripes",
       "genre": "alternative rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1095,
       "name": "Do I Wanna Know?",
       "singer/composer": "Arctic Monkeys",
       "genre": "indie rock",
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": 1096,
       "name": "Take Me Out",
       "singer/composer": "Franz Ferdinand",
       "genre": "indie rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1097,
       "name": "Kids",
       "singer/composer": "MGMT",
       "genre": "psychedelic pop",
-      "moodId": [1, 9]
+      "moodId": [
+        1,
+        9
+      ]
     },
     {
       "id": 1098,
       "name": "Dog Days Are Over",
       "singer/composer": "Florence + The Machine",
       "genre": "indie pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1099,
       "name": "The Sound of Silence",
       "singer/composer": "Simon & Garfunkel",
       "genre": "folk rock",
-      "moodId": [2, 8]
+      "moodId": [
+        2,
+        8
+      ]
     },
     {
       "id": 1100,
       "name": "Blowin' in the Wind",
       "singer/composer": "Bob Dylan",
       "genre": "folk",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1101,
       "name": "Starman",
       "singer/composer": "David Bowie",
       "genre": "glam rock",
-      "moodId": [9]
+      "moodId": [
+        9
+      ]
     },
     {
       "id": 1102,
       "name": "Space Oddity",
       "singer/composer": "David Bowie",
       "genre": "art rock",
-      "moodId": [9]
+      "moodId": [
+        9
+      ]
     },
     {
       "id": 1103,
       "name": "Heroes",
       "singer/composer": "David Bowie",
       "genre": "art rock",
-      "moodId": [9]
+      "moodId": [
+        9
+      ]
     },
     {
       "id": 1104,
       "name": "Under Pressure",
       "singer/composer": "Queen / David Bowie",
       "genre": "rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1105,
       "name": "Another One Bites the Dust",
       "singer/composer": "Queen",
       "genre": "funk rock",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1106,
       "name": "We Will Rock You",
       "singer/composer": "Queen",
       "genre": "rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1107,
       "name": "We Are the Champions",
       "singer/composer": "Queen",
       "genre": "rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1108,
       "name": "Black Dog",
       "singer/composer": "Led Zeppelin",
       "genre": "hard rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1109,
       "name": "Whole Lotta Love",
       "singer/composer": "Led Zeppelin",
       "genre": "hard rock",
-      "moodId": [4]
+      "moodId": [
+        4
+      ]
     },
     {
       "id": 1110,
       "name": "Kashmir",
       "singer/composer": "Led Zeppelin",
       "genre": "hard rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1111,
       "name": "Back in Black",
       "singer/composer": "AC/DC",
       "genre": "hard rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1112,
       "name": "Highway to Hell",
       "singer/composer": "AC/DC",
       "genre": "hard rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1113,
       "name": "Thunderstruck",
       "singer/composer": "AC/DC",
       "genre": "hard rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1114,
       "name": "Another Brick in the Wall",
       "singer/composer": "Pink Floyd",
       "genre": "progressive rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1115,
       "name": "Comfortably Numb",
       "singer/composer": "Pink Floyd",
       "genre": "progressive rock",
-      "moodId": [3, 8]
+      "moodId": [
+        3,
+        8
+      ]
     },
     {
       "id": 1116,
       "name": "Wish You Were Here",
       "singer/composer": "Pink Floyd",
       "genre": "progressive rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1117,
       "name": "Money",
       "singer/composer": "Pink Floyd",
       "genre": "progressive rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1118,
       "name": "The Sound of Silence",
       "singer/composer": "Simon & Garfunkel",
       "genre": "folk rock",
-      "moodId": [2, 8]
+      "moodId": [
+        2,
+        8
+      ]
     },
     {
       "id": 1119,
       "name": "Mrs. Robinson",
       "singer/composer": "Simon & Garfunkel",
       "genre": "folk rock",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1120,
       "name": "Bridge over Troubled Water",
       "singer/composer": "Simon & Garfunkel",
       "genre": "folk rock",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1121,
       "name": "Fast Car",
       "singer/composer": "Tracy Chapman",
       "genre": "folk rock",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1122,
       "name": "What's Up?",
       "singer/composer": "4 Non Blondes",
       "genre": "alternative rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1123,
       "name": "Zombie",
       "singer/composer": "The Cranberries",
       "genre": "alternative rock",
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": 1124,
       "name": "Everybody Hurts",
       "singer/composer": "R.E.M.",
       "genre": "alternative rock",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1125,
       "name": "Iris",
       "singer/composer": "Goo Goo Dolls",
       "genre": "alternative rock",
-      "moodId": [4]
+      "moodId": [
+        4
+      ]
     },
     {
       "id": 1126,
       "name": "Under the Bridge",
       "singer/composer": "Red Hot Chili Peppers",
       "genre": "alternative rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1127,
       "name": "Californication",
       "singer/composer": "Red Hot Chili Peppers",
       "genre": "alternative rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1128,
       "name": "Everlong",
       "singer/composer": "Foo Fighters",
       "genre": "alternative rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1129,
       "name": "In the End",
       "singer/composer": "Linkin Park",
       "genre": "nu metal",
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": 1130,
       "name": "Numb",
       "singer/composer": "Linkin Park",
       "genre": "nu metal",
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": 1131,
       "name": "Bring Me to Life",
       "singer/composer": "Evanescence",
       "genre": "alternative metal",
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": 1132,
       "name": "Boulevard of Broken Dreams",
       "singer/composer": "Green Day",
       "genre": "pop punk",
-      "moodId": [2, 8, 1]
+      "moodId": [
+        2,
+        8,
+        1
+      ]
     },
     {
       "id": 1133,
       "name": "American Idiot",
       "singer/composer": "Green Day",
       "genre": "punk rock",
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": 1134,
       "name": "Basket Case",
       "singer/composer": "Green Day",
       "genre": "punk rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1135,
       "name": "Complicated",
       "singer/composer": "Avril Lavigne",
       "genre": "pop rock",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1136,
       "name": "Since U Been Gone",
       "singer/composer": "Kelly Clarkson",
       "genre": "pop rock",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1137,
       "name": "Toxic",
       "singer/composer": "Britney Spears",
       "genre": "electropop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1138,
       "name": "...Baby One More Time",
       "singer/composer": "Britney Spears",
       "genre": "pop",
-      "moodId": [3, 1, 9]
+      "moodId": [
+        3,
+        1,
+        9
+      ]
     },
     {
       "id": 1139,
       "name": "Genie in a Bottle",
       "singer/composer": "Christina Aguilera",
       "genre": "pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1140,
       "name": "Beautiful",
       "singer/composer": "Christina Aguilera",
       "genre": "pop",
-      "moodId": [4, 1]
+      "moodId": [
+        4,
+        1
+      ]
     },
     {
       "id": 1141,
       "name": "Poker Face",
       "singer/composer": "Lady Gaga",
       "genre": "dance-pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1142,
       "name": "Bad Romance",
       "singer/composer": "Lady Gaga",
       "genre": "dance-pop",
-      "moodId": [4, 1]
+      "moodId": [
+        4,
+        1
+      ]
     },
     {
       "id": 1143,
       "name": "Umbrella",
       "singer/composer": "Rihanna",
       "genre": "pop",
-      "moodId": [4, 1]
+      "moodId": [
+        4,
+        1
+      ]
     },
     {
       "id": 1144,
       "name": "We Found Love",
       "singer/composer": "Rihanna / Calvin Harris",
       "genre": "dance-pop",
-      "moodId": [4, 1]
+      "moodId": [
+        4,
+        1
+      ]
     },
     {
       "id": 1145,
       "name": "Diamonds",
       "singer/composer": "Rihanna",
       "genre": "pop",
-      "moodId": [4, 1]
+      "moodId": [
+        4,
+        1
+      ]
     },
     {
       "id": 1146,
       "name": "Firework",
       "singer/composer": "Katy Perry",
       "genre": "pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1147,
       "name": "Teenage Dream",
       "singer/composer": "Katy Perry",
       "genre": "pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1148,
       "name": "Call Me Maybe",
       "singer/composer": "Carly Rae Jepsen",
       "genre": "dance-pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1149,
       "name": "Shape of You",
       "singer/composer": "Ed Sheeran",
       "genre": "pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1150,
       "name": "Perfect",
       "singer/composer": "Ed Sheeran",
       "genre": "pop",
-      "moodId": [4, 1]
+      "moodId": [
+        4,
+        1
+      ]
     },
     {
       "id": 1151,
       "name": "Thinking Out Loud",
       "singer/composer": "Ed Sheeran",
       "genre": "soul pop",
-      "moodId": [4, 2, 1]
+      "moodId": [
+        4,
+        2,
+        1
+      ]
     },
     {
       "id": 1152,
       "name": "Uptown Funk",
       "singer/composer": "Mark Ronson / Bruno Mars",
       "genre": "funk pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1153,
       "name": "Just the Way You Are",
       "singer/composer": "Bruno Mars",
       "genre": "pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1154,
       "name": "Locked Out of Heaven",
       "singer/composer": "Bruno Mars",
       "genre": "pop rock",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1155,
       "name": "When I Was Your Man",
       "singer/composer": "Bruno Mars",
       "genre": "pop",
-      "moodId": [2, 1]
+      "moodId": [
+        2,
+        1
+      ]
     },
     {
       "id": 1156,
       "name": "Stay",
       "singer/composer": "Rihanna / Mikky Ekko",
       "genre": "pop",
-      "moodId": [2, 1]
+      "moodId": [
+        2,
+        1
+      ]
     },
     {
       "id": 1157,
       "name": "Royals",
       "singer/composer": "Lorde",
       "genre": "electropop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1158,
       "name": "Green Light",
       "singer/composer": "Lorde",
       "genre": "electropop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1159,
       "name": "Chandelier",
       "singer/composer": "Sia",
       "genre": "electropop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1160,
       "name": "Elastic Heart",
       "singer/composer": "Sia",
       "genre": "electropop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1161,
       "name": "Somebody That I Used to Know",
       "singer/composer": "Gotye / Kimbra",
       "genre": "indie pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1162,
       "name": "Wake Me Up",
       "singer/composer": "Avicii",
       "genre": "EDM",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1163,
       "name": "Levels",
       "singer/composer": "Avicii",
       "genre": "EDM",
-      "moodId": [1, 9]
+      "moodId": [
+        1,
+        9
+      ]
     },
     {
       "id": 1164,
       "name": "Titanium",
       "singer/composer": "David Guetta / Sia",
       "genre": "EDM",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1165,
       "name": "Lean On",
       "singer/composer": "Major Lazer / DJ Snake / MØ",
       "genre": "electronic",
-      "moodId": [1, 9]
+      "moodId": [
+        1,
+        9
+      ]
     },
     {
       "id": 1166,
       "name": "Animals",
       "singer/composer": "Martin Garrix",
       "genre": "EDM",
-      "moodId": [1, 9]
+      "moodId": [
+        1,
+        9
+      ]
     },
     {
       "id": 1167,
       "name": "Strobe",
       "singer/composer": "deadmau5",
       "genre": "progressive house",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1168,
       "name": "Firestarter",
       "singer/composer": "The Prodigy",
       "genre": "electronic",
-      "moodId": [8, 9]
+      "moodId": [
+        8,
+        9
+      ]
     },
     {
       "id": 1169,
       "name": "Born Slippy",
       "singer/composer": "Underworld",
       "genre": "techno",
-      "moodId": [9]
+      "moodId": [
+        9
+      ]
     },
     {
       "id": 1170,
       "name": "Insomnia",
       "singer/composer": "Faithless",
       "genre": "electronic",
-      "moodId": [8, 9]
+      "moodId": [
+        8,
+        9
+      ]
     },
     {
       "id": 1171,
       "name": "Porcelain",
       "singer/composer": "Moby",
       "genre": "electronica",
-      "moodId": [8, 9]
+      "moodId": [
+        8,
+        9
+      ]
     },
     {
       "id": 1172,
       "name": "Midnight City",
       "singer/composer": "M83",
       "genre": "synth-pop",
-      "moodId": [8, 1, 9]
+      "moodId": [
+        8,
+        1,
+        9
+      ]
     },
     {
       "id": 1173,
       "name": "Intro",
       "singer/composer": "The xx",
       "genre": "indie pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1174,
       "name": "1901",
       "singer/composer": "Phoenix",
       "genre": "indie pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1175,
       "name": "Electric Feel",
       "singer/composer": "MGMT",
       "genre": "psychedelic pop",
-      "moodId": [1, 9]
+      "moodId": [
+        1,
+        9
+      ]
     },
     {
       "id": 1176,
       "name": "Somebody Else",
       "singer/composer": "The 1975",
       "genre": "indie pop",
-      "moodId": [8, 1]
+      "moodId": [
+        8,
+        1
+      ]
     },
     {
       "id": 1177,
       "name": "Do I Wanna Know?",
       "singer/composer": "Arctic Monkeys",
       "genre": "indie rock",
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": 1178,
       "name": "505",
       "singer/composer": "Arctic Monkeys",
       "genre": "indie rock",
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": 1179,
       "name": "Reptilia",
       "singer/composer": "The Strokes",
       "genre": "indie rock",
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": 1180,
       "name": "Last Nite",
       "singer/composer": "The Strokes",
       "genre": "indie rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1181,
       "name": "Float On",
       "singer/composer": "Modest Mouse",
       "genre": "indie rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1182,
       "name": "Take a Walk",
       "singer/composer": "Passion Pit",
       "genre": "indie pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1183,
       "name": "Pumped Up Kicks",
       "singer/composer": "Foster the People",
       "genre": "indie pop",
-      "moodId": [1]
+      "moodId": [
+        1
+      ]
     },
     {
       "id": 1184,
       "name": "Little Talks",
       "singer/composer": "Of Monsters and Men",
       "genre": "indie folk",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1185,
       "name": "Ho Hey",
       "singer/composer": "The Lumineers",
       "genre": "indie folk",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1186,
       "name": "Riptide",
       "singer/composer": "Vance Joy",
       "genre": "indie folk",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1187,
       "name": "Home",
       "singer/composer": "Edward Sharpe & The Magnetic Zeros",
       "genre": "indie folk",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1188,
       "name": "Skinny Love",
       "singer/composer": "Bon Iver",
       "genre": "indie folk",
-      "moodId": [4, 2]
+      "moodId": [
+        4,
+        2
+      ]
     },
     {
       "id": 1189,
       "name": "Holocene",
       "singer/composer": "Bon Iver",
       "genre": "indie folk",
-      "moodId": [2]
+      "moodId": [
+        2
+      ]
     },
     {
       "id": 1190,
       "name": "The A Team",
       "singer/composer": "Ed Sheeran",
       "genre": "folk pop",
-      "moodId": [2, 1]
+      "moodId": [
+        2,
+        1
+      ]
     },
     {
       "id": 1191,
       "name": "Take Me to Church",
       "singer/composer": "Hozier",
       "genre": "indie rock",
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": 1192,
       "name": "Work Song",
       "singer/composer": "Hozier",
       "genre": "soul",
-      "moodId": [2, 8]
+      "moodId": [
+        2,
+        8
+      ]
     },
     {
       "id": 1193,
       "name": "Yellow",
       "singer/composer": "Coldplay",
       "genre": "alternative rock",
-      "moodId": [4, 3]
+      "moodId": [
+        4,
+        3
+      ]
     },
     {
       "id": 1194,
       "name": "Fix You",
       "singer/composer": "Coldplay",
       "genre": "alternative rock",
-      "moodId": [4]
+      "moodId": [
+        4
+      ]
     },
     {
       "id": 1195,
       "name": "Viva la Vida",
       "singer/composer": "Coldplay",
       "genre": "alternative rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1196,
       "name": "Clocks",
       "singer/composer": "Coldplay",
       "genre": "alternative rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1197,
       "name": "Use Somebody",
       "singer/composer": "Kings of Leon",
       "genre": "alternative rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1198,
       "name": "Sex on Fire",
       "singer/composer": "Kings of Leon",
       "genre": "alternative rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1199,
       "name": "The Man Who Sold the World",
       "singer/composer": "David Bowie",
       "genre": "rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     },
     {
       "id": 1200,
       "name": "Time",
       "singer/composer": "Pink Floyd",
       "genre": "progressive rock",
-      "moodId": [3]
+      "moodId": [
+        3
+      ]
     }
   ],
   "movies": [
@@ -2585,7 +3426,10 @@
       "description": "A banker sentenced to life in prison forms an unlikely friendship and finds hope through decades of hardship.",
       "country": "United States",
       "year": 1994,
-      "moodId": [2, 6]
+      "moodId": [
+        2,
+        6
+      ]
     },
     {
       "id": 2002,
@@ -2593,7 +3437,10 @@
       "description": "The aging patriarch of a powerful crime family prepares his reluctant son to take over the family business.",
       "country": "United States",
       "year": 1972,
-      "moodId": [7, 8]
+      "moodId": [
+        7,
+        8
+      ]
     },
     {
       "id": 2003,
@@ -2601,7 +3448,10 @@
       "description": "Batman faces a criminal mastermind whose chaotic methods push Gotham and its heroes to their limits.",
       "country": "United States",
       "year": 2008,
-      "moodId": [8, 7]
+      "moodId": [
+        8,
+        7
+      ]
     },
     {
       "id": 2004,
@@ -2609,7 +3459,10 @@
       "description": "Several interconnected stories of criminals, hitmen and unexpected encounters unfold across Los Angeles.",
       "country": "United States",
       "year": 1994,
-      "moodId": [8, 7]
+      "moodId": [
+        8,
+        7
+      ]
     },
     {
       "id": 2005,
@@ -2617,7 +3470,11 @@
       "description": "A disillusioned office worker enters an underground world of violence and rebellion that challenges his identity.",
       "country": "United States",
       "year": 1999,
-      "moodId": [8, 7, 2]
+      "moodId": [
+        8,
+        7,
+        2
+      ]
     },
     {
       "id": 2006,
@@ -2625,7 +3482,11 @@
       "description": "A kind-hearted man experiences extraordinary moments in American history while remaining devoted to the people he loves.",
       "country": "United States",
       "year": 1994,
-      "moodId": [1, 3, 6]
+      "moodId": [
+        1,
+        3,
+        6
+      ]
     },
     {
       "id": 2007,
@@ -2633,7 +3494,11 @@
       "description": "A skilled thief who enters people's dreams is offered a chance to erase his past by performing an impossible task.",
       "country": "United States",
       "year": 2010,
-      "moodId": [7, 9, 8]
+      "moodId": [
+        7,
+        9,
+        8
+      ]
     },
     {
       "id": 2008,
@@ -2641,7 +3506,11 @@
       "description": "A group of explorers travels through a wormhole in search of a new home for humanity as Earth approaches ecological collapse.",
       "country": "United States",
       "year": 2014,
-      "moodId": [7, 9, 2]
+      "moodId": [
+        7,
+        9,
+        2
+      ]
     },
     {
       "id": 2009,
@@ -2649,7 +3518,11 @@
       "description": "A hacker discovers that reality is an elaborate simulation and joins a rebellion against the machines controlling humanity.",
       "country": "United States",
       "year": 1999,
-      "moodId": [7, 9, 8]
+      "moodId": [
+        7,
+        9,
+        8
+      ]
     },
     {
       "id": 2010,
@@ -2657,7 +3530,11 @@
       "description": "A couple undergoes a procedure to erase memories of their painful relationship, only to discover how much those memories matter.",
       "country": "United States",
       "year": 2004,
-      "moodId": [2, 3, 4]
+      "moodId": [
+        2,
+        3,
+        4
+      ]
     },
     {
       "id": 2011,
@@ -2665,7 +3542,10 @@
       "description": "A man slowly realizes that his entire life is actually a television show watched by millions.",
       "country": "United States",
       "year": 1998,
-      "moodId": [7, 9]
+      "moodId": [
+        7,
+        9
+      ]
     },
     {
       "id": 2012,
@@ -2673,7 +3553,11 @@
       "description": "A lonely writer develops an intimate relationship with an advanced artificial intelligence operating system.",
       "country": "United States",
       "year": 2013,
-      "moodId": [4, 2, 7]
+      "moodId": [
+        4,
+        2,
+        7
+      ]
     },
     {
       "id": 2013,
@@ -2681,7 +3565,11 @@
       "description": "Two lonely strangers in Tokyo form a quiet and unexpected connection while struggling with uncertainty in their lives.",
       "country": "United States / Japan",
       "year": 2003,
-      "moodId": [2, 3, 4]
+      "moodId": [
+        2,
+        3,
+        4
+      ]
     },
     {
       "id": 2014,
@@ -2689,7 +3577,10 @@
       "description": "A troubled young genius begins to confront his past after forming a relationship with a compassionate therapist.",
       "country": "United States",
       "year": 1997,
-      "moodId": [6, 2]
+      "moodId": [
+        6,
+        2
+      ]
     },
     {
       "id": 2015,
@@ -2697,7 +3588,10 @@
       "description": "An unconventional teacher inspires his students to question convention and embrace the possibilities of life.",
       "country": "United States",
       "year": 1989,
-      "moodId": [6, 7]
+      "moodId": [
+        6,
+        7
+      ]
     },
     {
       "id": 2016,
@@ -2705,7 +3599,10 @@
       "description": "An ambitious young drummer enters an intense relationship with a demanding music instructor who pushes him toward greatness.",
       "country": "United States",
       "year": 2014,
-      "moodId": [6, 8]
+      "moodId": [
+        6,
+        8
+      ]
     },
     {
       "id": 2017,
@@ -2713,7 +3610,11 @@
       "description": "Two rival magicians become obsessed with defeating each other, leading them into increasingly dangerous acts of deception.",
       "country": "United States / United Kingdom",
       "year": 2006,
-      "moodId": [8, 7, 9]
+      "moodId": [
+        8,
+        7,
+        9
+      ]
     },
     {
       "id": 2018,
@@ -2721,7 +3622,10 @@
       "description": "A struggling family gradually infiltrates the household of a wealthy family, with devastating consequences.",
       "country": "South Korea",
       "year": 2019,
-      "moodId": [8, 7]
+      "moodId": [
+        8,
+        7
+      ]
     },
     {
       "id": 2019,
@@ -2729,7 +3633,10 @@
       "description": "A man imprisoned for years without explanation is suddenly released and begins a violent search for the truth.",
       "country": "South Korea",
       "year": 2003,
-      "moodId": [8, 7]
+      "moodId": [
+        8,
+        7
+      ]
     },
     {
       "id": 2020,
@@ -2737,7 +3644,10 @@
       "description": "Detectives investigate a series of murders in rural South Korea while struggling with uncertainty and failure.",
       "country": "South Korea",
       "year": 2003,
-      "moodId": [8, 2]
+      "moodId": [
+        8,
+        2
+      ]
     },
     {
       "id": 2021,
@@ -2745,7 +3655,11 @@
       "description": "A young girl enters a mysterious spirit world and must find courage and determination to save her parents.",
       "country": "Japan",
       "year": 2001,
-      "moodId": [10, 9, 3]
+      "moodId": [
+        10,
+        9,
+        3
+      ]
     },
     {
       "id": 2022,
@@ -2753,7 +3667,11 @@
       "description": "A young warrior becomes caught between supernatural forest spirits and humans fighting for control of nature.",
       "country": "Japan",
       "year": 1997,
-      "moodId": [10, 7, 9]
+      "moodId": [
+        10,
+        7,
+        9
+      ]
     },
     {
       "id": 2023,
@@ -2761,7 +3679,10 @@
       "description": "A young woman cursed with an old body finds refuge in a magical moving castle inhabited by a mysterious wizard.",
       "country": "Japan",
       "year": 2004,
-      "moodId": [10, 4]
+      "moodId": [
+        10,
+        4
+      ]
     },
     {
       "id": 2024,
@@ -2769,7 +3690,11 @@
       "description": "A young hobbit begins a dangerous journey to destroy a powerful ring before its dark creator can reclaim it.",
       "country": "New Zealand / United States",
       "year": 2001,
-      "moodId": [10, 6, 9]
+      "moodId": [
+        10,
+        6,
+        9
+      ]
     },
     {
       "id": 2025,
@@ -2777,7 +3702,11 @@
       "description": "The members of the fellowship continue their separate journeys as Middle-earth prepares for a great war.",
       "country": "New Zealand / United States",
       "year": 2002,
-      "moodId": [10, 6, 8]
+      "moodId": [
+        10,
+        6,
+        8
+      ]
     },
     {
       "id": 2026,
@@ -2785,7 +3714,11 @@
       "description": "The final battle for Middle-earth begins as Frodo and Sam approach the end of their dangerous quest.",
       "country": "New Zealand / United States",
       "year": 2003,
-      "moodId": [10, 6, 2]
+      "moodId": [
+        10,
+        6,
+        2
+      ]
     },
     {
       "id": 2027,
@@ -2793,7 +3726,11 @@
       "description": "Bilbo Baggins joins a company of dwarves on an adventure to reclaim their homeland from a powerful dragon.",
       "country": "New Zealand / United States",
       "year": 2012,
-      "moodId": [10, 9, 1]
+      "moodId": [
+        10,
+        9,
+        1
+      ]
     },
     {
       "id": 2028,
@@ -2801,7 +3738,11 @@
       "description": "A young girl living during postwar Spain escapes into a mysterious fantasy world filled with dangerous creatures and secrets.",
       "country": "Spain / Mexico",
       "year": 2006,
-      "moodId": [10, 8, 2]
+      "moodId": [
+        10,
+        8,
+        2
+      ]
     },
     {
       "id": 2029,
@@ -2809,7 +3750,11 @@
       "description": "An orphan discovers that he is a wizard and begins his first year at the magical Hogwarts school.",
       "country": "United Kingdom / United States",
       "year": 2001,
-      "moodId": [10, 9, 3]
+      "moodId": [
+        10,
+        9,
+        3
+      ]
     },
     {
       "id": 2030,
@@ -2817,7 +3762,11 @@
       "description": "Harry returns to Hogwarts as a dangerous prisoner escapes from the wizarding prison of Azkaban.",
       "country": "United Kingdom / United States",
       "year": 2004,
-      "moodId": [10, 8, 2]
+      "moodId": [
+        10,
+        8,
+        2
+      ]
     },
     {
       "id": 2031,
@@ -2825,7 +3774,11 @@
       "description": "A gifted young nobleman travels to a dangerous desert planet whose valuable resources control the future of humanity.",
       "country": "United States / Canada",
       "year": 2021,
-      "moodId": [10, 7, 9]
+      "moodId": [
+        10,
+        7,
+        9
+      ]
     },
     {
       "id": 2032,
@@ -2833,7 +3786,11 @@
       "description": "A replicant police officer uncovers a secret that leads him to search for a legendary former blade runner.",
       "country": "United States / United Kingdom",
       "year": 2017,
-      "moodId": [8, 7, 2]
+      "moodId": [
+        8,
+        7,
+        2
+      ]
     },
     {
       "id": 2033,
@@ -2841,7 +3798,11 @@
       "description": "A linguist is recruited to communicate with mysterious extraterrestrial visitors whose arrival changes humanity's understanding of time.",
       "country": "United States / Canada",
       "year": 2016,
-      "moodId": [9, 7, 2]
+      "moodId": [
+        9,
+        7,
+        2
+      ]
     },
     {
       "id": 2034,
@@ -2849,7 +3810,11 @@
       "description": "A young programmer is invited to evaluate an advanced artificial intelligence housed in an isolated research facility.",
       "country": "United Kingdom",
       "year": 2014,
-      "moodId": [7, 9, 8]
+      "moodId": [
+        7,
+        9,
+        8
+      ]
     },
     {
       "id": 2035,
@@ -2857,7 +3822,10 @@
       "description": "An astronaut stranded alone on Mars must use science and creativity to survive while NASA works to bring him home.",
       "country": "United States / United Kingdom",
       "year": 2015,
-      "moodId": [9, 6]
+      "moodId": [
+        9,
+        6
+      ]
     },
     {
       "id": 2036,
@@ -2865,7 +3833,10 @@
       "description": "Two astronauts fight for survival after a disaster leaves them stranded in orbit around Earth.",
       "country": "United States / United Kingdom",
       "year": 2013,
-      "moodId": [8, 9]
+      "moodId": [
+        8,
+        9
+      ]
     },
     {
       "id": 2037,
@@ -2873,7 +3844,10 @@
       "description": "The creation of Facebook transforms the lives of its founders while friendships and partnerships begin to fall apart.",
       "country": "United States",
       "year": 2010,
-      "moodId": [7, 6]
+      "moodId": [
+        7,
+        6
+      ]
     },
     {
       "id": 2038,
@@ -2881,7 +3855,10 @@
       "description": "A charismatic stockbroker builds a life of extreme wealth and excess through manipulation and fraud.",
       "country": "United States",
       "year": 2013,
-      "moodId": [8, 1]
+      "moodId": [
+        8,
+        1
+      ]
     },
     {
       "id": 2039,
@@ -2889,7 +3866,10 @@
       "description": "A legendary hotel concierge and his young protégé become involved in a bizarre adventure surrounding a priceless painting.",
       "country": "United States / Germany",
       "year": 2014,
-      "moodId": [1, 3]
+      "moodId": [
+        1,
+        3
+      ]
     },
     {
       "id": 2040,
@@ -2897,7 +3877,11 @@
       "description": "A shy young woman secretly changes the lives of people around her while searching for connection and happiness.",
       "country": "France",
       "year": 2001,
-      "moodId": [1, 4, 3]
+      "moodId": [
+        1,
+        4,
+        3
+      ]
     },
     {
       "id": 2041,
@@ -2905,7 +3889,10 @@
       "description": "A wealthy quadriplegic man forms an unlikely friendship with his unconventional caregiver.",
       "country": "France",
       "year": 2011,
-      "moodId": [1, 6]
+      "moodId": [
+        1,
+        6
+      ]
     },
     {
       "id": 2042,
@@ -2913,7 +3900,11 @@
       "description": "A father uses imagination and humor to protect his young son from the horrors of a concentration camp.",
       "country": "Italy",
       "year": 1997,
-      "moodId": [2, 6, 3]
+      "moodId": [
+        2,
+        6,
+        3
+      ]
     },
     {
       "id": 2043,
@@ -2921,7 +3912,10 @@
       "description": "A successful filmmaker returns to his hometown and remembers the cinema, friendships and people who shaped his childhood.",
       "country": "Italy",
       "year": 1988,
-      "moodId": [3, 2]
+      "moodId": [
+        3,
+        2
+      ]
     },
     {
       "id": 2044,
@@ -2929,7 +3923,11 @@
       "description": "A secret police officer monitoring a playwright gradually becomes emotionally involved in the lives he is supposed to observe.",
       "country": "Germany",
       "year": 2006,
-      "moodId": [7, 2, 8]
+      "moodId": [
+        7,
+        2,
+        8
+      ]
     },
     {
       "id": 2045,
@@ -2937,7 +3935,10 @@
       "description": "A young woman races through Berlin to save her boyfriend after he loses a large amount of money.",
       "country": "Germany",
       "year": 1998,
-      "moodId": [6, 9]
+      "moodId": [
+        6,
+        9
+      ]
     },
     {
       "id": 2046,
@@ -2945,7 +3946,10 @@
       "description": "An East German surveillance officer begins questioning his loyalty after becoming deeply involved with the people he is spying on.",
       "country": "Germany",
       "year": 2006,
-      "moodId": [7, 8]
+      "moodId": [
+        7,
+        8
+      ]
     },
     {
       "id": 2047,
@@ -2953,7 +3957,10 @@
       "description": "A married couple faces an increasingly complicated legal and moral conflict after deciding to separate.",
       "country": "Iran",
       "year": 2011,
-      "moodId": [7, 2]
+      "moodId": [
+        7,
+        2
+      ]
     },
     {
       "id": 2048,
@@ -2961,7 +3968,10 @@
       "description": "A couple's life changes dramatically after a violent incident forces them to confront questions of justice and revenge.",
       "country": "Iran",
       "year": 2016,
-      "moodId": [8, 7]
+      "moodId": [
+        8,
+        7
+      ]
     },
     {
       "id": 2049,
@@ -2969,7 +3979,11 @@
       "description": "A young boy tries to hide the loss of his sister's shoes while finding a way to help his family.",
       "country": "Iran",
       "year": 1997,
-      "moodId": [3, 2, 6]
+      "moodId": [
+        3,
+        2,
+        6
+      ]
     },
     {
       "id": 2050,
@@ -2977,7 +3991,10 @@
       "description": "A young FBI trainee seeks the help of an imprisoned serial killer to catch another dangerous murderer.",
       "country": "United States",
       "year": 1991,
-      "moodId": [8, 7]
+      "moodId": [
+        8,
+        7
+      ]
     },
     {
       "id": 2051,
@@ -2985,7 +4002,10 @@
       "description": "Two detectives hunt a serial killer whose murders are inspired by the seven deadly sins.",
       "country": "United States",
       "year": 1995,
-      "moodId": [8, 7]
+      "moodId": [
+        8,
+        7
+      ]
     },
     {
       "id": 2052,
@@ -2993,7 +4013,11 @@
       "description": "A federal marshal investigates the disappearance of a patient from an isolated psychiatric hospital and begins questioning reality itself.",
       "country": "United States",
       "year": 2010,
-      "moodId": [8, 7, 2]
+      "moodId": [
+        8,
+        7,
+        2
+      ]
     },
     {
       "id": 2053,
@@ -3001,7 +4025,11 @@
       "description": "A ballet dancer's pursuit of perfection becomes increasingly disturbing as she struggles with identity and obsession.",
       "country": "United States",
       "year": 2010,
-      "moodId": [8, 7, 2]
+      "moodId": [
+        8,
+        7,
+        2
+      ]
     },
     {
       "id": 2054,
@@ -3009,7 +4037,10 @@
       "description": "Two lighthouse keepers become increasingly unstable while isolated on a remote island.",
       "country": "United States / Canada",
       "year": 2019,
-      "moodId": [8, 7]
+      "moodId": [
+        8,
+        7
+      ]
     },
     {
       "id": 2055,
@@ -3017,7 +4048,11 @@
       "description": "A prison guard develops an extraordinary bond with a mysterious inmate possessing an unusual gift.",
       "country": "United States",
       "year": 1999,
-      "moodId": [2, 7, 6]
+      "moodId": [
+        2,
+        7,
+        6
+      ]
     },
     {
       "id": 2056,
@@ -3025,7 +4060,10 @@
       "description": "A Jewish pianist struggles to survive the destruction of Warsaw during World War II.",
       "country": "France / Poland / Germany",
       "year": 2002,
-      "moodId": [2, 6]
+      "moodId": [
+        2,
+        6
+      ]
     },
     {
       "id": 2057,
@@ -3033,7 +4071,11 @@
       "description": "A German businessman gradually risks everything to save Jewish lives during the Holocaust.",
       "country": "United States",
       "year": 1993,
-      "moodId": [2, 6, 7]
+      "moodId": [
+        2,
+        6,
+        7
+      ]
     },
     {
       "id": 2058,
@@ -3041,7 +4083,10 @@
       "description": "A group of soldiers is sent behind enemy lines to rescue a paratrooper whose brothers have been killed in battle.",
       "country": "United States",
       "year": 1998,
-      "moodId": [6, 2]
+      "moodId": [
+        6,
+        2
+      ]
     },
     {
       "id": 2059,
@@ -3049,7 +4094,10 @@
       "description": "A betrayed Roman general fights his way back from slavery to seek revenge against the emperor who destroyed his life.",
       "country": "United States / United Kingdom",
       "year": 2000,
-      "moodId": [6, 8]
+      "moodId": [
+        6,
+        8
+      ]
     },
     {
       "id": 2060,
@@ -3057,7 +4105,10 @@
       "description": "William Wallace leads a rebellion against English rule in medieval Scotland.",
       "country": "United States",
       "year": 1995,
-      "moodId": [6, 10]
+      "moodId": [
+        6,
+        10
+      ]
     },
     {
       "id": 2061,
@@ -3065,7 +4116,10 @@
       "description": "A frontiersman survives a brutal attack and pursues revenge against the man who abandoned him.",
       "country": "United States",
       "year": 2015,
-      "moodId": [8, 6]
+      "moodId": [
+        8,
+        6
+      ]
     },
     {
       "id": 2062,
@@ -3073,7 +4127,11 @@
       "description": "A young graduate abandons conventional life and travels across America searching for freedom and meaning.",
       "country": "United States",
       "year": 2007,
-      "moodId": [9, 7, 6]
+      "moodId": [
+        9,
+        7,
+        6
+      ]
     },
     {
       "id": 2063,
@@ -3081,7 +4139,10 @@
       "description": "A woman undertakes a long solo hike to rebuild her life after years of personal struggles.",
       "country": "United States",
       "year": 2014,
-      "moodId": [6, 7]
+      "moodId": [
+        6,
+        7
+      ]
     },
     {
       "id": 2064,
@@ -3089,7 +4150,11 @@
       "description": "A woman leaves her old life behind and travels through Italy, India and Indonesia in search of meaning and balance.",
       "country": "United States",
       "year": 2010,
-      "moodId": [6, 9, 4]
+      "moodId": [
+        6,
+        9,
+        4
+      ]
     },
     {
       "id": 2065,
@@ -3097,7 +4162,11 @@
       "description": "Two strangers meet on a train and spend one night walking and talking through Vienna.",
       "country": "United States / Austria",
       "year": 1995,
-      "moodId": [4, 3, 7]
+      "moodId": [
+        4,
+        3,
+        7
+      ]
     },
     {
       "id": 2066,
@@ -3105,7 +4174,11 @@
       "description": "Years after their first meeting, two former lovers reunite in Paris and confront the choices they made.",
       "country": "United States / France",
       "year": 2004,
-      "moodId": [4, 3, 2]
+      "moodId": [
+        4,
+        3,
+        2
+      ]
     },
     {
       "id": 2067,
@@ -3113,7 +4186,11 @@
       "description": "A long-term couple confronts the realities of love, aging and commitment during a holiday in Greece.",
       "country": "United States / Greece",
       "year": 2013,
-      "moodId": [4, 7, 2]
+      "moodId": [
+        4,
+        7,
+        2
+      ]
     },
     {
       "id": 2068,
@@ -3121,7 +4198,11 @@
       "description": "An aspiring actress and a jazz musician fall in love while pursuing their dreams in Los Angeles.",
       "country": "United States",
       "year": 2016,
-      "moodId": [4, 1, 2]
+      "moodId": [
+        4,
+        1,
+        2
+      ]
     },
     {
       "id": 2069,
@@ -3129,7 +4210,11 @@
       "description": "A young man reflects on a failed relationship and tries to understand what went wrong.",
       "country": "United States",
       "year": 2009,
-      "moodId": [4, 2, 3]
+      "moodId": [
+        4,
+        2,
+        3
+      ]
     },
     {
       "id": 2070,
@@ -3137,7 +4222,11 @@
       "description": "A young man experiences a transformative summer romance in northern Italy.",
       "country": "Italy / France / United States",
       "year": 2017,
-      "moodId": [4, 3, 2]
+      "moodId": [
+        4,
+        3,
+        2
+      ]
     },
     {
       "id": 2071,
@@ -3145,7 +4234,11 @@
       "description": "An elderly man reads a love story about two young people whose relationship survives years of separation.",
       "country": "United States",
       "year": 2004,
-      "moodId": [4, 3, 2]
+      "moodId": [
+        4,
+        3,
+        2
+      ]
     },
     {
       "id": 2072,
@@ -3153,7 +4246,10 @@
       "description": "Elizabeth Bennet navigates family expectations and her complicated relationship with the proud Mr. Darcy.",
       "country": "United Kingdom / France / United States",
       "year": 2005,
-      "moodId": [4, 3]
+      "moodId": [
+        4,
+        3
+      ]
     },
     {
       "id": 2073,
@@ -3161,7 +4257,11 @@
       "description": "Four sisters grow up together while finding their own paths through love, ambition and family.",
       "country": "United States",
       "year": 2019,
-      "moodId": [3, 4, 6]
+      "moodId": [
+        3,
+        4,
+        6
+      ]
     },
     {
       "id": 2074,
@@ -3169,7 +4269,11 @@
       "description": "A struggling woman discovers that she must connect with alternate versions of herself across parallel universes.",
       "country": "United States",
       "year": 2022,
-      "moodId": [9, 7, 1]
+      "moodId": [
+        9,
+        7,
+        1
+      ]
     },
     {
       "id": 2075,
@@ -3177,7 +4281,11 @@
       "description": "A woman overwhelmed by family and financial problems discovers a multiverse where countless versions of her life exist.",
       "country": "United States",
       "year": 2022,
-      "moodId": [9, 7, 1]
+      "moodId": [
+        9,
+        7,
+        1
+      ]
     },
     {
       "id": 2076,
@@ -3185,7 +4293,11 @@
       "description": "An ordinary woman becomes responsible for saving multiple realities while confronting her relationships and choices.",
       "country": "United States",
       "year": 2022,
-      "moodId": [9, 7, 6]
+      "moodId": [
+        9,
+        7,
+        6
+      ]
     },
     {
       "id": 2077,
@@ -3193,7 +4305,11 @@
       "description": "A linguist attempts to understand alien visitors while discovering that language can transform our perception of time.",
       "country": "United States / Canada",
       "year": 2016,
-      "moodId": [7, 9, 2]
+      "moodId": [
+        7,
+        9,
+        2
+      ]
     },
     {
       "id": 2078,
@@ -3201,7 +4317,10 @@
       "description": "A mysterious monolith appears to influence human evolution as astronauts travel toward Jupiter on a secret mission.",
       "country": "United Kingdom / United States",
       "year": 1968,
-      "moodId": [7, 9]
+      "moodId": [
+        7,
+        9
+      ]
     },
     {
       "id": 2079,
@@ -3209,7 +4328,10 @@
       "description": "A writer takes his family to an isolated hotel where supernatural forces and his own instability begin to take control.",
       "country": "United Kingdom / United States",
       "year": 1980,
-      "moodId": [8, 7]
+      "moodId": [
+        8,
+        7
+      ]
     },
     {
       "id": 2080,
@@ -3217,7 +4339,10 @@
       "description": "A young man visiting his girlfriend's family discovers disturbing secrets beneath their seemingly welcoming behavior.",
       "country": "United States",
       "year": 2017,
-      "moodId": [8, 7]
+      "moodId": [
+        8,
+        7
+      ]
     },
     {
       "id": 2081,
@@ -3225,7 +4350,10 @@
       "description": "A family begins to uncover terrifying secrets following the death of their secretive grandmother.",
       "country": "United States",
       "year": 2018,
-      "moodId": [8, 2]
+      "moodId": [
+        8,
+        2
+      ]
     },
     {
       "id": 2082,
@@ -3233,7 +4361,9 @@
       "description": "A mother seeks help after her young daughter begins displaying terrifying supernatural behavior.",
       "country": "United States",
       "year": 1973,
-      "moodId": [8]
+      "moodId": [
+        8
+      ]
     },
     {
       "id": 2083,
@@ -3241,7 +4371,10 @@
       "description": "The crew of a commercial spaceship encounters a deadly extraterrestrial creature that begins hunting them one by one.",
       "country": "United Kingdom / United States",
       "year": 1979,
-      "moodId": [8, 9]
+      "moodId": [
+        8,
+        9
+      ]
     },
     {
       "id": 2084,
@@ -3249,7 +4382,10 @@
       "description": "Scientists at an Antarctic research station face a shape-shifting alien capable of imitating any living organism.",
       "country": "United States",
       "year": 1982,
-      "moodId": [8, 9]
+      "moodId": [
+        8,
+        9
+      ]
     },
     {
       "id": 2085,
@@ -3257,7 +4393,10 @@
       "description": "A warrior and a group of women attempt to escape across a dangerous wasteland while pursued by a brutal warlord.",
       "country": "Australia / United States",
       "year": 2015,
-      "moodId": [6, 8]
+      "moodId": [
+        6,
+        8
+      ]
     },
     {
       "id": 2086,
@@ -3265,7 +4404,11 @@
       "description": "A young American travels to Ukraine searching for the woman who saved his grandfather during World War II.",
       "country": "United States",
       "year": 2005,
-      "moodId": [3, 9, 2]
+      "moodId": [
+        3,
+        9,
+        2
+      ]
     },
     {
       "id": 2087,
@@ -3273,7 +4416,11 @@
       "description": "A quiet man escapes his routine through elaborate fantasies before embarking on a real-world adventure.",
       "country": "United States",
       "year": 2013,
-      "moodId": [9, 6, 1]
+      "moodId": [
+        9,
+        6,
+        1
+      ]
     },
     {
       "id": 2088,
@@ -3281,7 +4428,11 @@
       "description": "A young man discovers he can travel through time and uses the ability to improve his relationships and appreciate ordinary life.",
       "country": "United Kingdom",
       "year": 2013,
-      "moodId": [4, 3, 1]
+      "moodId": [
+        4,
+        3,
+        1
+      ]
     },
     {
       "id": 2089,
@@ -3289,7 +4440,11 @@
       "description": "A man is born with a strange condition that causes him to age in reverse while experiencing love and loss.",
       "country": "United States",
       "year": 2008,
-      "moodId": [3, 4, 7]
+      "moodId": [
+        3,
+        4,
+        7
+      ]
     },
     {
       "id": 2090,
@@ -3297,7 +4452,11 @@
       "description": "A son tries to separate fact from fiction in the extraordinary stories his dying father has told throughout his life.",
       "country": "United States",
       "year": 2003,
-      "moodId": [3, 10, 2]
+      "moodId": [
+        3,
+        10,
+        2
+      ]
     },
     {
       "id": 2091,
@@ -3305,7 +4464,10 @@
       "description": "A man discovers that every part of his seemingly ordinary life has been secretly filmed for a television audience.",
       "country": "United States",
       "year": 1998,
-      "moodId": [7, 9]
+      "moodId": [
+        7,
+        9
+      ]
     },
     {
       "id": 2092,
@@ -3313,7 +4475,11 @@
       "description": "A troubled teenager experiences strange visions of a mysterious figure in a rabbit costume who predicts an approaching catastrophe.",
       "country": "United States",
       "year": 2001,
-      "moodId": [8, 7, 9]
+      "moodId": [
+        8,
+        7,
+        9
+      ]
     },
     {
       "id": 2093,
@@ -3321,7 +4487,10 @@
       "description": "A child psychologist attempts to help a young boy who claims that he can see dead people.",
       "country": "United States",
       "year": 1999,
-      "moodId": [8, 7]
+      "moodId": [
+        8,
+        7
+      ]
     },
     {
       "id": 2094,
@@ -3329,7 +4498,11 @@
       "description": "Benjamin Button experiences an unusual life as he grows younger while everyone around him grows older.",
       "country": "United States",
       "year": 2008,
-      "moodId": [3, 4, 2]
+      "moodId": [
+        3,
+        4,
+        2
+      ]
     },
     {
       "id": 2095,
@@ -3337,7 +4510,11 @@
       "description": "The story of physicist Stephen Hawking and his relationship with Jane as he confronts a life-changing diagnosis.",
       "country": "United Kingdom",
       "year": 2014,
-      "moodId": [6, 4, 2]
+      "moodId": [
+        6,
+        4,
+        2
+      ]
     },
     {
       "id": 2096,
@@ -3345,7 +4522,11 @@
       "description": "The story of J. Robert Oppenheimer and the scientific and moral consequences of developing the atomic bomb.",
       "country": "United States / United Kingdom",
       "year": 2023,
-      "moodId": [7, 8, 9]
+      "moodId": [
+        7,
+        8,
+        9
+      ]
     },
     {
       "id": 2097,
@@ -3353,7 +4534,11 @@
       "description": "A brilliant mathematician and cryptanalyst works to break the German Enigma code during World War II.",
       "country": "United Kingdom / United States",
       "year": 2014,
-      "moodId": [9, 6, 2]
+      "moodId": [
+        9,
+        6,
+        2
+      ]
     },
     {
       "id": 2098,
@@ -3361,7 +4546,11 @@
       "description": "A brilliant mathematician struggles with mental illness while trying to preserve his career, relationships and sense of reality.",
       "country": "United States",
       "year": 2001,
-      "moodId": [7, 2, 6]
+      "moodId": [
+        7,
+        2,
+        6
+      ]
     },
     {
       "id": 2099,
@@ -3369,7 +4558,11 @@
       "description": "Stephen Hawking's extraordinary scientific career unfolds alongside his complex personal life and enduring relationship with Jane.",
       "country": "United Kingdom",
       "year": 2014,
-      "moodId": [9, 4, 6]
+      "moodId": [
+        9,
+        4,
+        6
+      ]
     },
     {
       "id": 2100,
@@ -3377,7 +4570,11 @@
       "description": "A musician gets a chance to reconsider what makes life meaningful after an unexpected event separates his soul from his body.",
       "country": "United States",
       "year": 2020,
-      "moodId": [7, 1, 6]
+      "moodId": [
+        7,
+        1,
+        6
+      ]
     }
   ],
   "moods": [
@@ -3423,6 +4620,6 @@
     }
   ],
   "memories": [],
-  "dreams" : [],
-  "quotes" : []
+  "dreams": [],
+  "quotes": []
 }
