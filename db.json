@@ -1446,11 +1446,31 @@
       ]
     },
     {
+  "id": "pR7kL3x",
+  "title": "My Last Sigh",
+  "pageCount": 256,
+  "description": "Luis Buñuel writes lyrically and passionately about his middle-class boyhood in Spain, his years as an engineering student in Madrid, his involvement in the surrealist movement, his time in Paris, his relationships with artists such as Max Ernst, Picasso, and André Breton, and his experiences during the Spanish Civil War. The book also focuses on his long and distinguished cinematic career.",
+  "image": "https://covers.openlibrary.org/b/id/254235-L.jpg",
+  "author": "Luis Buñuel",
+  "category": "non-fiction",
+  "moodId": [3, 9]
+},
+{
+  "id": "xQ4mT7k",
+  "title": "Astronomy Made Simple",
+  "pageCount": 228,
+  "description": "This edition doesn't have a description yet.",
+  "image": "https://covers.openlibrary.org/b/id/4448310-L.jpg",
+  "author": "Meir H. Degani",
+  "category": "science",
+  "moodId": [9, 10]
+},
+    {
       "id": 3022,
       "title": "Shahnameh: The Persian Book of Kings",
       "pageCount": 928,
       "description": "Ferdowsi's monumental national epic tells the story of ancient Persia through legendary kings, heroes, wars, love, betrayal, courage, and tragedy.",
-      "image": "Shahnameh",
+      "image": "https://covers.openlibrary.org/b/id/12875818-L.jpg",
       "author": "Ferdowsi",
       "category": "history",
       "moodId": [
@@ -1487,6 +1507,16 @@
         6
       ]
     },
+    {
+  "id": "bN6tQ2x",
+  "title": "Dissolving Classroom",
+  "pageCount": 202,
+  "description": "A pair of twisted siblings—Yuuma, a young man obsessed with the devil, and Chizumi, the worst little sister in recorded history—cause all sorts of tragic and terrifying things to happen wherever they go. These scary short stories shock with a literal interpretation of the ills that plague modern society.",
+  "image": "https://covers.openlibrary.org/b/id/12499195-L.jpg",
+  "author": "Junji Itō",
+  "category": "fiction",
+  "moodId": [8, 10]
+},
     {
       "id": 3025,
       "title": "Rubaiyat",
@@ -1528,7 +1558,68 @@
         6,
         9
       ]
-    }
+    },
+    {
+  "id": "qR7mK2a",
+  "title": "Nineteen Eighty-Four",
+  "pageCount": 460,
+  "description": "Portrays life in a future time when a totalitarian government watches over all citizens and directs all activities.",
+  "image": "https://covers.openlibrary.org/b/id/12693610-L.jpg",
+  "author": "George Orwell",
+  "category": "fiction",
+  "moodId": [7,8]
+},
+{
+  "id": "kP4xT9m",
+  "title": "Animal Farm",
+  "pageCount": 118,
+  "description": "A farm is taken over by its overworked, mistreated animals. With flaming idealism and stirring slogans, they set out to create a paradise of progress, justice, and equality. The stage is set for a satiric fable that records the evolution from revolution against tyranny to a totalitarianism just as terrible.",
+  "image": "https://covers.openlibrary.org/b/id/15246098-L.jpg",
+  "author": "George Orwell",
+  "category": "fiction",
+  "moodId": [7, 8]
+},
+{
+  "id": "vN8kR3p",
+  "title": "A Beast Slinks Towards Beijing",
+  "pageCount": 360,
+  "description": "A dark, magical realist debut family saga that moves through the Japanese occupation of Manchuria, the Cultural Revolution, and the present day to explore the effects of intergenerational trauma, the legacy of colonialism, and the inescapability of fate.",
+  "image": "https://covers.openlibrary.org/b/id/15220657-L.jpg",
+  "author": "Alice Evelyn Yang",
+  "category": "fiction",
+  "moodId": [9, 10]
+},
+{
+  "id": "hK6pR9x",
+  "title": "Thus Spoke Zarathustra",
+  "pageCount": 368,
+  "description": "A landmark work of philosophy and literature, Thus Spoke Zarathustra is the fullest expression of Nietzsche's belief in the development of humanity through its highest individuals. Zarathustra, the archetypal Übermensch, leaves his home for the mountains and explores ideas beyond conventional standards of good and evil.",
+  "image": "https://covers.openlibrary.org/b/id/5639596-L.jpg",
+  "author": "Friedrich Nietzsche",
+  "category": "philosophy",
+  "moodId": [7, 9]
+},
+{
+  "id": "rT8mK4q",
+  "title": "Crime and Punishment",
+  "pageCount": 671,
+  "description": "Crime and Punishment tells the story of Rodion Raskolnikov, an ex-student who plans to murder a pawnbroker to test his theory of personality. Having accomplished the deed, Raskolnikov struggles with mental anguish while trying to avoid the consequences and hide his guilt from his friends and family.",
+  "image": "https://covers.openlibrary.org/b/id/12622046-L.jpg",
+  "author": "Fyodor Dostoevsky",
+  "category": "fiction",
+  "moodId": [7, 8]
+},
+{
+  "id": "zL5mQ8r",
+  "title": "One Hundred Years of Solitude",
+  "pageCount": 432,
+  "description": "A novel that narrates the vicissitudes of Aureliano Buendía in the mythical town of Macondo. The story follows the Buendía family across seven generations and blends elements of fiction and reality in the style of magical realism.",
+  "image": "https://covers.openlibrary.org/b/id/10454740-L.jpg",
+  "author": "Gabriel García Márquez",
+  "category": "fiction",
+  "moodId": [3, 10]
+}
+
   ],
   "songs": [
     {
