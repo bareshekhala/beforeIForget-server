@@ -11,7 +11,7 @@ const server = jsonServer.create(); // initialize the server instance
 const middlewares = jsonServer.defaults(); // apply json-server default middleware (logger, static, CORS, no-cache)
 server.use(middlewares);
 
-const router = jsonServer.router('db.json'); // create a router backed by db.json for automatic CRUD routes
+const router = jsonServer.router('db.json', { foreignKeySuffix: '__foreignKey' });
 server.use(router);
 
 const PORT = process.env.PORT || 5005; // use PORT from env or fallback to 5005
