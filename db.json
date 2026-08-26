@@ -693,6 +693,16 @@
       ]
     },
     {
+  "id": 1562116,
+  "title": "How We Survived Communism and Even Laughed",
+  "pageCount": 193,
+  "description": "Slavenka Drakulić's account of everyday life under communism in Eastern Europe, exploring how ordinary people adapted to political repression, shortages, ideology, and social control. Through personal observations and dark humor, the book examines the human experience behind life under a communist system.",
+  "image": "https://covers.openlibrary.org/b/id/11648995-M.jpg",
+  "author": "Slavenka Drakulić",
+  "category": "Political Memoir",
+  "moodId": [8, 4, 6]
+},
+    {
       "id": "OL4321141W",
       "title": "The Secret History",
       "pageCount": 334,
@@ -1271,6 +1281,16 @@
       ]
     },
     {
+  "id": 50992824,
+  "title": "The Old Man and the Sea",
+  "pageCount": 130,
+  "description": "An aging Cuban fisherman, Santiago, struggles against the sea and a giant marlin in a test of endurance, courage, and determination. Through his solitary battle, Hemingway explores perseverance, dignity, pride, failure, and the complex relationship between human beings and nature.",
+  "image": "https://covers.openlibrary.org/b/id/14899879-M.jpg",
+  "author": "Ernest Hemingway",
+  "category": "Literary Fiction",
+  "moodId": [3, 7, 8]
+},
+    {
       "id": 3009,
       "title": "Siddhartha",
       "pageCount": 152,
@@ -1645,7 +1665,115 @@
         3,
         10
       ]
-    }
+    },
+    {
+      "id": 5832147,
+      "title": "A Game of Thrones",
+      "pageCount": 710,
+      "description":
+      "An epic fantasy novel set in Westeros, where powerful families struggle for the Iron Throne amid political intrigue, betrayal, war, loyalty, and supernatural threats.",
+    "image": "https://covers.openlibrary.org/b/id/15128814-M.jpg",
+    "author": "George R. R. Martin",
+    "category": "Fantasy",
+    "moodId": [8, 9, 10]
+  },
+
+  {
+    "id": 7416293,
+    "title": "The Psychology of Money",
+    "pageCount": 242,
+    "description":
+      "A collection of stories and lessons about how people think about money, wealth, investing, risk, happiness, and financial decisions.",
+    "image": "https://covers.openlibrary.org/b/id/15215448-M.jpg",
+    "author": "Morgan Housel",
+    "category": "Self-help",
+    "moodId": [6, 7, 9]
+  },
+
+  {
+    "id": 3268159,
+    "title": "The Subtle Art of Not Giving a Fuck",
+    "pageCount": 256,
+    "description":
+      "A practical and unconventional approach to happiness, personal values, responsibility, failure, boundaries, and accepting the difficulties of life.",
+    "image": "https://covers.openlibrary.org/b/id/15161037-M.jpg",
+    "author": "Mark Manson",
+    "category": "Self-help",
+    "moodId": [6, 7, 8]
+  },
+
+  {
+    "id": 9154372,
+    "title": "Fourth Wing",
+    "pageCount": 517,
+    "description":
+      "A fantasy adventure about a young woman forced to enter an elite war college for dragon riders, where she faces danger, rivalry, romance, secrets, and a growing threat to her kingdom.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS09u153tfSzoTH-XAInED07gyI3AdHmtFrra695psf-g&s",
+    "author": "Rebecca Yarros",
+    "category": "Fantasy",
+    "moodId": [10, 4, 8, 9]
+  },
+  {
+  "id": 6248135,
+  "title": "The Stranger",
+  "pageCount": 162,
+  "description": "A philosophical novel about Meursault, an emotionally detached man whose life is transformed by a violent act, exploring absurdity, alienation, death, and society's expectations.",
+  "image": "https://covers.openlibrary.org/b/id/15118287-M.jpg",
+  "author": "Albert Camus",
+  "category": "Philosophy",
+  "moodId": [7, 8, 2, 9]
+}, 
+{
+  "id": 8372514,
+  "title": "Blindness",
+  "pageCount": 540,
+  "description": "A mysterious epidemic of blindness spreads rapidly through a city, forcing people into quarantine and exposing the darkest and most primitive aspects of human behavior, survival, morality, and society.",
+  "image": "https://covers.openlibrary.org/b/id/10428436-M.jpg",
+  "author": "José Saramago",
+  "category": "Philosophy",
+  "moodId": [8, 7, 2, 9]
+},
+{
+  "id": 6147832,
+  "title": "The Autumn of the Patriarch",
+  "pageCount": 206,
+  "description": "A powerful and surreal portrait of an aging Caribbean dictator whose absolute power has isolated him from everyone around him. The novel explores tyranny, political repression, corruption, fear, loneliness, and the psychological consequences of absolute power.",
+  "image": "https://covers.openlibrary.org/b/id/11723892-M.jpg",
+  "author": "Gabriel García Márquez",
+  "category": "Political Fiction",
+  "moodId": [8, 7, 2]
+}, 
+{
+  "id": 24506210,
+  "title": "Metamorphosis",
+  "pageCount": 70,
+  "description": "Gregor Samsa wakes one morning to find himself inexplicably transformed into a monstrous insect. As he struggles to adapt to his new existence, his relationship with his family deteriorates, exploring alienation, isolation, identity, guilt, and the conditional nature of human relationships.",
+  "image": "https://covers.openlibrary.org/b/id/15200982-M.jpg",
+  "author": "Franz Kafka",
+  "category": "Philosophical Fiction",
+  "moodId": [8, 6, 7]
+},
+{
+  "id": 58936271,
+  "title": "Man's Search for Meaning",
+  "pageCount": 242,
+  "description": "Viktor Frankl's memoir of his experiences in Nazi concentration camps and his development of logotherapy. The book examines suffering, survival, freedom, responsibility, and the human search for meaning, arguing that people can choose how they respond to even the most difficult circumstances.",
+  "image": "https://covers.openlibrary.org/b/id/15102812-M.jpg",
+  "author": "Viktor E. Frankl",
+  "category": "Psychology",
+  "moodId": [7, 5, 3]
+},
+{
+  "id": 37044756,
+  "title": "The Gadfly",
+  "pageCount": null,
+  "description": "Set in 1840s Italy under Austrian rule, the novel follows the Gadfly, a witty political satirist who becomes involved with revolutionary forces. It explores revolution, loyalty, love, religion, political struggle, and resistance to authority.",
+  "image": "https://covers.openlibrary.org/b/id/12622074-M.jpg",
+  "author": "Ethel Lilian Voynich",
+  "category": "Political Fiction",
+  "moodId": [8, 7, 6]
+}
+
   ],
   "songs": [
 
