@@ -3369,6 +3369,7 @@
         18
       ],
       "id": 458220,
+      "category": "Fiction",
       "moodId": [
         2,
         6
@@ -3393,6 +3394,7 @@
         80
       ],
       "id": 414419,
+      "category": "Fiction",
       "moodId": [
         8
       ],
@@ -3416,6 +3418,7 @@
         18
       ],
       "id": 103,
+      "category": "Psychology",
       "moodId": [
         8,
         7
@@ -3441,6 +3444,7 @@
         878
       ],
       "id": 10681,
+      "category": "Science",
       "moodId": [
         1,
         4,
@@ -3465,6 +3469,7 @@
         18
       ],
       "id": 797,
+      "category": "Psychology",
       "moodId": [
         7,
         8,
@@ -3490,6 +3495,7 @@
         10752
       ],
       "id": 935,
+      "category": "Philosophy",
       "moodId": [
         8,
         7
@@ -3513,6 +3519,7 @@
         18
       ],
       "id": 666,
+      "category": "Classics",
       "moodId": [
         2,
         3
@@ -3538,6 +3545,7 @@
         18
       ],
       "id": 475557,
+      "category": "Psychology",
       "moodId": [
         8,
         2
@@ -3562,6 +3570,7 @@
         10752
       ],
       "id": 600,
+      "category": "History",
       "moodId": [
         8,
         7
@@ -3587,6 +3596,7 @@
         10749
       ],
       "id": 575813,
+      "category": "Romance",
       "moodId": [
         2,
         4,
@@ -3611,6 +3621,7 @@
         35
       ],
       "id": 20914,
+      "category": "Classics",
       "moodId": [
         1,
         3
@@ -3635,6 +3646,7 @@
         53
       ],
       "id": 500,
+      "category": "Mystery",
       "moodId": [
         8
       ],
@@ -3659,6 +3671,7 @@
         878
       ],
       "id": 1375646,
+      "category": "Fiction",
       "moodId": [
         8,
         9
@@ -3684,6 +3697,7 @@
         80
       ],
       "id": 146233,
+      "category": "Mystery",
       "moodId": [
         8,
         2,
@@ -3710,6 +3724,7 @@
         14
       ],
       "id": 810693,
+      "category": "Fantasy",
       "moodId": [
         10,
         4,
@@ -3736,6 +3751,7 @@
         9648
       ],
       "id": 46738,
+      "category": "History",
       "moodId": [
         2,
         3,
@@ -3760,6 +3776,7 @@
         35
       ],
       "id": 38288,
+      "category": "Classics",
       "moodId": [
         1
       ],
@@ -3782,6 +3799,7 @@
         18
       ],
       "id": 1103621,
+      "category": "Fiction",
       "moodId": [
         2,
         3
@@ -3807,6 +3825,7 @@
         14
       ],
       "id": 664767,
+      "category": "Fantasy",
       "moodId": [
         8,
         10
@@ -3831,6 +3850,7 @@
         18
       ],
       "id": 406997,
+      "category": "Psychology",
       "moodId": [
         1,
         6
@@ -3857,6 +3877,7 @@
         14
       ],
       "id": 980431,
+      "category": "Fantasy",
       "moodId": [
         10,
         9,
@@ -3883,6 +3904,7 @@
         10749
       ],
       "id": 1632181,
+      "category": "Romance",
       "moodId": [
         1,
         4,
@@ -3910,6 +3932,7 @@
         14
       ],
       "id": 1007757,
+      "category": "Fantasy",
       "moodId": [
         1,
         10,
@@ -3937,6 +3960,7 @@
         14
       ],
       "id": 1311031,
+      "category": "Fantasy",
       "moodId": [
         8,
         10,
@@ -3962,6 +3986,7 @@
         80
       ],
       "id": 278,
+      "category": "Classics",
       "moodId": [
         2,
         6,
@@ -3987,6 +4012,7 @@
         80
       ],
       "id": 238,
+      "category": "History",
       "moodId": [
         8,
         7,
@@ -4012,6 +4038,7 @@
         18
       ],
       "id": 936075,
+      "category": "Biography",
       "moodId": [
         1,
         6,
@@ -4037,6 +4064,7 @@
         12
       ],
       "id": 687163,
+      "category": "Science",
       "moodId": [
         9,
         6,
@@ -4063,6 +4091,7 @@
         80
       ],
       "id": 240,
+      "category": "History",
       "moodId": [
         8,
         7,
@@ -4090,6 +4119,7 @@
         10752
       ],
       "id": 424,
+      "category": "History",
       "moodId": [
         2,
         7,
@@ -4114,6 +4144,7 @@
         18
       ],
       "id": 389,
+      "category": "Philosophy",
       "moodId": [
         7,
         9,
@@ -4139,6 +4170,7 @@
         10749
       ],
       "id": 1232449,
+      "category": "Romance",
       "moodId": [
         4,
         9,
@@ -4166,6 +4198,7 @@
         14
       ],
       "id": 1218925,
+      "category": "Fantasy",
       "moodId": [
         4,
         8,
@@ -4192,6 +4225,7 @@
         53
       ],
       "id": 155,
+      "category": "Mystery",
       "moodId": [
         8,
         7,
@@ -4218,6 +4252,7 @@
         14
       ],
       "id": 129,
+      "category": "Fantasy",
       "moodId": [
         10,
         6,
@@ -4245,6 +4280,7 @@
         80
       ],
       "id": 497,
+      "category": "Classics",
       "moodId": [
         2,
         7,
@@ -4271,6 +4307,7 @@
         10749
       ],
       "id": 19404,
+      "category": "Romance",
       "moodId": [
         4,
         1,
@@ -4297,6 +4334,7 @@
         28
       ],
       "id": 122,
+      "category": "Fantasy",
       "moodId": [
         10,
         6,
@@ -4324,6 +4362,7 @@
         18
       ],
       "id": 496243,
+      "category": "Philosophy",
       "moodId": [
         8,
         7,
@@ -4350,6 +4389,7 @@
         878
       ],
       "id": 157336,
+      "category": "Science",
       "title": "Interstellar",
       "original_language": "en",
       "original_title": "Interstellar",
@@ -4376,6 +4416,7 @@
         35
       ],
       "id": 680,
+      "category": "Classics",
       "title": "Pulp Fiction",
       "original_language": "en",
       "original_title": "Pulp Fiction",
@@ -4401,6 +4442,7 @@
         10749
       ],
       "id": 1181678,
+      "category": "Romance",
       "title": "¿Quieres ser mi hijo?",
       "original_language": "en",
       "original_title": "¿Quieres ser mi hijo?",
@@ -4425,6 +4467,7 @@
         37
       ],
       "id": 429,
+      "category": "Classics",
       "title": "The Good, the Bad and the Ugly",
       "original_language": "it",
       "original_title": "Il buono, il brutto, il cattivo",
@@ -4450,6 +4493,7 @@
         10749
       ],
       "id": 13,
+      "category": "Biography",
       "title": "Forrest Gump",
       "original_language": "en",
       "original_title": "Forrest Gump",
@@ -4475,6 +4519,7 @@
         53
       ],
       "id": 1383731,
+      "category": "Fiction",
       "title": "Protector",
       "original_language": "en",
       "original_title": "Protector",
@@ -4501,6 +4546,7 @@
         36
       ],
       "id": 14537,
+      "category": "History",
       "title": "Harakiri",
       "original_language": "ja",
       "original_title": "切腹",
@@ -4526,6 +4572,7 @@
         18
       ],
       "id": 346,
+      "category": "History",
       "title": "Seven Samurai",
       "original_language": "ja",
       "original_title": "七人の侍",
@@ -4550,6 +4597,7 @@
         80
       ],
       "id": 769,
+      "category": "History",
       "title": "GoodFellas",
       "original_language": "en",
       "original_title": "GoodFellas",
@@ -4576,6 +4624,7 @@
         10752
       ],
       "id": 12477,
+      "category": "History",
       "title": "Grave of the Fireflies",
       "original_language": "ja",
       "original_title": "火垂るの墓",
@@ -4602,6 +4651,7 @@
         28
       ],
       "id": 120,
+      "category": "Fantasy",
       "title": "The Lord of the Rings: The Fellowship of the Ring",
       "original_language": "en",
       "original_title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -4627,6 +4677,7 @@
         9648
       ],
       "id": 1330021,
+      "category": "Fiction",
       "title": "Remarkably Bright Creatures",
       "original_language": "en",
       "original_title": "Remarkably Bright Creatures",
@@ -4652,6 +4703,7 @@
         18
       ],
       "id": 637,
+      "category": "History",
       "title": "Life Is Beautiful",
       "original_language": "it",
       "original_title": "La vita è bella",
@@ -4678,6 +4730,7 @@
         53
       ],
       "id": 550,
+      "category": "Psychology",
       "title": "Fight Club",
       "original_language": "en",
       "original_title": "Fight Club",
@@ -4703,6 +4756,7 @@
         10749
       ],
       "id": 11216,
+      "category": "Classics",
       "title": "Cinema Paradiso",
       "original_language": "it",
       "original_title": "Nuovo Cinema Paradiso",
@@ -4728,6 +4782,7 @@
         80
       ],
       "id": 598,
+      "category": "History",
       "title": "City of God",
       "original_language": "pt",
       "original_title": "Cidade de Deus",
@@ -4754,6 +4809,7 @@
         28
       ],
       "id": 121,
+      "category": "Fantasy",
       "title": "The Lord of the Rings: The Two Towers",
       "original_language": "en",
       "original_title": "The Lord of the Rings: The Two Towers",
@@ -4781,6 +4837,7 @@
         10749
       ],
       "id": 40096,
+      "category": "Classics",
       "title": "A Dog's Will",
       "original_language": "pt",
       "original_title": "O Auto da Compadecida",
@@ -4807,6 +4864,7 @@
         9648
       ],
       "id": 539,
+      "category": "Mystery",
       "title": "Psycho",
       "original_language": "en",
       "original_title": "Psycho",
@@ -4831,6 +4889,7 @@
         18
       ],
       "id": 667257,
+      "category": "Psychology",
       "title": "Impossible Things",
       "original_language": "es",
       "original_title": "Cosas imposibles",
@@ -4855,6 +4914,7 @@
         18
       ],
       "id": 510,
+      "category": "Fantasy",
       "title": "One Flew Over the Cuckoo's Nest",
       "original_language": "en",
       "original_title": "One Flew Over the Cuckoo's Nest",
@@ -4881,6 +4941,7 @@
         28
       ],
       "id": 620249,
+      "category": "Fantasy",
       "title": "The Legend of Hei",
       "original_language": "zh",
       "original_title": "罗小黑战记",
@@ -4908,6 +4969,7 @@
         878
       ],
       "id": 324857,
+      "category": "Psychology",
       "title": "Spider-Man: Into the Spider-Verse",
       "original_language": "en",
       "original_title": "Spider-Man: Into the Spider-Verse",
@@ -4934,6 +4996,7 @@
         10749
       ],
       "id": 378064,
+      "category": "Fantasy",
       "title": "A Silent Voice: The Movie",
       "original_language": "ja",
       "original_title": "映画 聲の形",
@@ -4961,6 +5024,7 @@
         878
       ],
       "id": 1891,
+      "category": "Psychology",
       "title": "The Empire Strikes Back",
       "original_language": "en",
       "original_title": "The Empire Strikes Back",
@@ -4987,6 +5051,7 @@
         12
       ],
       "id": 4935,
+      "category": "Romance",
       "title": "Howl's Moving Castle",
       "original_language": "ja",
       "original_title": "ハウルの動く城",
@@ -5011,6 +5076,7 @@
         18
       ],
       "id": 255709,
+      "category": "Mystery",
       "title": "Hope",
       "original_language": "ko",
       "original_title": "소원",
@@ -5036,6 +5102,7 @@
         18
       ],
       "id": 696374,
+      "category": "Mystery",
       "title": "Gabriel's Inferno",
       "original_language": "en",
       "original_title": "Gabriel's Inferno",
@@ -5062,6 +5129,7 @@
         53
       ],
       "id": 807,
+      "category": "Fantasy",
       "title": "Se7en",
       "original_language": "en",
       "original_title": "Se7en",
@@ -5089,6 +5157,7 @@
         9648
       ],
       "id": 12493,
+      "category": "Psychology",
       "title": "High and Low",
       "original_language": "ja",
       "original_title": "天国と地獄",
@@ -5114,6 +5183,7 @@
         10751
       ],
       "id": 770156,
+      "category": "History",
       "title": "Lucy Shimmers and the Prince of Peace",
       "original_language": "en",
       "original_title": "Lucy Shimmers and the Prince of Peace",
@@ -5140,6 +5210,7 @@
         53
       ],
       "id": 244786,
+      "category": "Mystery",
       "title": "Whiplash",
       "original_language": "en",
       "original_title": "Whiplash",
@@ -5165,6 +5236,7 @@
         80
       ],
       "id": 311,
+      "category": "Biography",
       "title": "Once Upon a Time in America",
       "original_language": "en",
       "original_title": "Once Upon a Time in America",
@@ -5191,6 +5263,7 @@
         12
       ],
       "id": 27205,
+      "category": "Romance",
       "title": "Inception",
       "original_language": "en",
       "original_title": "Inception",
@@ -5216,6 +5289,7 @@
         10752
       ],
       "id": 423,
+      "category": "Fantasy",
       "title": "The Pianist",
       "original_language": "en",
       "original_title": "The Pianist",
@@ -5241,6 +5315,7 @@
         18
       ],
       "id": 724089,
+      "category": "Romance",
       "title": "Gabriel's Inferno: Part II",
       "original_language": "en",
       "original_title": "Gabriel's Inferno: Part II",
@@ -5267,6 +5342,7 @@
         878
       ],
       "id": 569094,
+      "category": "Romance",
       "title": "Spider-Man: Across the Spider-Verse",
       "original_language": "en",
       "original_title": "Spider-Man: Across the Spider-Verse",
@@ -5293,6 +5369,7 @@
         18
       ],
       "id": 274,
+      "category": "Mystery",
       "title": "The Silence of the Lambs",
       "original_language": "en",
       "original_title": "The Silence of the Lambs",
@@ -5319,6 +5396,7 @@
         18
       ],
       "id": 614945,
+      "category": "Psychology",
       "title": "Voicemails for Isabelle",
       "original_language": "en",
       "original_title": "Voicemails for Isabelle",
@@ -5344,6 +5422,7 @@
         18
       ],
       "id": 761053,
+      "category": "Fantasy",
       "title": "Gabriel's Inferno: Part III",
       "original_language": "en",
       "original_title": "Gabriel's Inferno: Part III",
@@ -5369,6 +5448,7 @@
         18
       ],
       "id": 567,
+      "category": "History",
       "title": "Rear Window",
       "original_language": "en",
       "original_title": "Rear Window",
@@ -5392,6 +5472,7 @@
         18
       ],
       "id": 1058694,
+      "category": "Fantasy",
       "title": "Radical",
       "original_language": "es",
       "original_title": "Radical",
@@ -5417,6 +5498,7 @@
         878
       ],
       "id": 105,
+      "category": "Romance",
       "title": "Back to the Future",
       "original_language": "en",
       "original_title": "Back to the Future",
@@ -5441,6 +5523,7 @@
         18
       ],
       "id": 73,
+      "category": "Philosophy",
       "title": "American History X",
       "original_language": "en",
       "original_title": "American History X",
@@ -5467,6 +5550,7 @@
         16
       ],
       "id": 128,
+      "category": "Fantasy",
       "title": "Princess Mononoke",
       "original_language": "ja",
       "original_title": "もののけ姫",
@@ -5492,6 +5576,7 @@
         16
       ],
       "id": 372754,
+      "category": "Biography",
       "title": "Dou kyu sei – Classmates",
       "original_language": "ja",
       "original_title": "同級生",
@@ -5515,6 +5600,7 @@
         18
       ],
       "id": 3782,
+      "category": "Mystery",
       "title": "Ikiru",
       "original_language": "ja",
       "original_title": "生きる",
@@ -5542,6 +5628,7 @@
         12
       ],
       "id": 1184918,
+      "category": "Fiction",
       "title": "The Wild Robot",
       "original_language": "en",
       "original_title": "The Wild Robot",
@@ -5567,6 +5654,7 @@
         53
       ],
       "id": 10494,
+      "category": "Romance",
       "title": "Perfect Blue",
       "original_language": "ja",
       "original_title": "PERFECT BLUE",
@@ -5594,6 +5682,7 @@
         10749
       ],
       "id": 533514,
+      "category": "History",
       "title": "Violet Evergarden: The Movie",
       "original_language": "ja",
       "original_title": "劇場版 ヴァイオレット・エヴァーガーデン",
@@ -5618,6 +5707,7 @@
         18
       ],
       "id": 207,
+      "category": "Classics",
       "title": "Dead Poets Society",
       "original_language": "en",
       "original_title": "Dead Poets Society",
@@ -5644,6 +5734,7 @@
         28
       ],
       "id": 101,
+      "category": "History",
       "title": "Léon: The Professional",
       "original_language": "fr",
       "original_title": "Léon",
@@ -5670,6 +5761,7 @@
         80
       ],
       "id": 1439930,
+      "category": "Romance",
       "title": "The Punisher: One Last Kill",
       "original_language": "en",
       "original_title": "The Punisher: One Last Kill",
@@ -5695,6 +5787,7 @@
         35
       ],
       "id": 644479,
+      "category": "Classics",
       "title": "Dedicated to my ex",
       "original_language": "es",
       "original_title": "Dedicada A Mi Ex",
@@ -5720,6 +5813,7 @@
         10752
       ],
       "id": 914,
+      "category": "Classics",
       "title": "The Great Dictator",
       "original_language": "en",
       "original_title": "The Great Dictator",
@@ -5746,6 +5840,7 @@
         10749
       ],
       "id": 3082,
+      "category": "Biography",
       "title": "Modern Times",
       "original_language": "en",
       "original_title": "Modern Times",
@@ -5771,6 +5866,7 @@
         35
       ],
       "id": 42269,
+      "category": "Classics",
       "title": "We All Loved Each Other So Much",
       "original_language": "it",
       "original_title": "C'eravamo tanto amati",
@@ -5797,6 +5893,7 @@
         10749
       ],
       "id": 820067,
+      "category": "History",
       "title": "The Quintessential Quintuplets Movie",
       "original_language": "ja",
       "original_title": "映画 五等分の花嫁",
@@ -5823,6 +5920,7 @@
         10402
       ],
       "id": 654299,
+      "category": "Fantasy",
       "title": "Out of the Clear Blue Sky",
       "original_language": "es",
       "original_title": "Como caído del cielo",
@@ -5847,6 +5945,7 @@
         18
       ],
       "id": 599,
+      "category": "History",
       "title": "Sunset Boulevard",
       "original_language": "en",
       "original_title": "Sunset Boulevard",
@@ -5873,6 +5972,7 @@
         14
       ],
       "id": 1585,
+      "category": "Fantasy",
       "title": "It's a Wonderful Life",
       "original_language": "en",
       "original_title": "It's a Wonderful Life",
@@ -5898,6 +5998,7 @@
         35
       ],
       "id": 77338,
+      "category": "Psychology",
       "title": "The Intouchables",
       "original_language": "fr",
       "original_title": "Intouchables",
@@ -5923,6 +6024,7 @@
         37
       ],
       "id": 335,
+      "category": "Philosophy",
       "title": "Once Upon a Time in the West",
       "original_language": "it",
       "original_title": "C'era una volta il West",
@@ -5948,6 +6050,7 @@
         10752
       ],
       "id": 28,
+      "category": "Fantasy",
       "title": "Apocalypse Now",
       "original_language": "en",
       "original_title": "Apocalypse Now",
@@ -5973,6 +6076,7 @@
         14
       ],
       "id": 92321,
+      "category": "Biography",
       "title": "Hotarubi no Mori e",
       "original_language": "ja",
       "original_title": "蛍火の杜へ",
@@ -6001,6 +6105,7 @@
         28
       ],
       "id": 18491,
+      "category": "Mystery",
       "title": "Neon Genesis Evangelion: The End of Evangelion",
       "original_language": "ja",
       "original_title": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に",
@@ -6027,6 +6132,7 @@
         53
       ],
       "id": 1356039,
+      "category": "Fantasy",
       "title": "Counterattack",
       "original_language": "es",
       "original_title": "Contraataque",
@@ -6052,6 +6158,7 @@
         53
       ],
       "id": 92060,
+      "category": "Biography",
       "title": "Michael Jackson's Thriller",
       "original_language": "en",
       "original_title": "Michael Jackson's Thriller",
@@ -6076,6 +6183,7 @@
         878
       ],
       "id": 603,
+      "category": "Romance",
       "title": "The Matrix",
       "original_language": "en",
       "original_title": "The Matrix",
@@ -6102,6 +6210,7 @@
         10749
       ],
       "id": 652837,
+      "category": "Classics",
       "title": "Josee, the Tiger and the Fish",
       "original_language": "ja",
       "original_title": "ジョゼと虎と魚たち",
@@ -6128,6 +6237,7 @@
         18
       ],
       "id": 8587,
+      "category": "Classics",
       "title": "The Lion King",
       "original_language": "en",
       "original_title": "The Lion King",
@@ -6154,6 +6264,7 @@
         18
       ],
       "id": 975,
+      "category": "Biography",
       "title": "Paths of Glory",
       "original_language": "en",
       "original_title": "Paths of Glory",
@@ -6179,6 +6290,7 @@
         10749
       ],
       "id": 901,
+      "category": "History",
       "title": "City Lights",
       "original_language": "en",
       "original_title": "City Lights",
@@ -6207,6 +6319,7 @@
         35
       ],
       "id": 1139087,
+      "category": "Fantasy",
       "title": "Once Upon a Studio",
       "original_language": "en",
       "original_title": "Once Upon a Studio",
@@ -6231,6 +6344,7 @@
         18
       ],
       "id": 637920,
+      "category": "Fiction",
       "title": "Miracle in Cell No. 7",
       "original_language": "tr",
       "original_title": "7. Koğuştaki Mucize",
@@ -6259,6 +6373,7 @@
         16
       ],
       "id": 1226863,
+      "category": "Biography",
       "title": "The Super Mario Galaxy Movie",
       "original_language": "en",
       "original_title": "The Super Mario Galaxy Movie",
@@ -6285,6 +6400,7 @@
         80
       ],
       "id": 29259,
+      "category": "Science",
       "title": "Le Trou",
       "original_language": "fr",
       "original_title": "Le Trou",
@@ -6310,6 +6426,7 @@
         18
       ],
       "id": 630566,
+      "category": "Romance",
       "title": "Clouds",
       "original_language": "en",
       "original_title": "Clouds",
@@ -6336,6 +6453,7 @@
         878
       ],
       "id": 299536,
+      "category": "Fantasy",
       "title": "Avengers: Infinity War",
       "original_language": "en",
       "original_title": "Avengers: Infinity War",
@@ -6362,6 +6480,7 @@
         28
       ],
       "id": 299534,
+      "category": "History",
       "title": "Avengers: Endgame",
       "original_language": "en",
       "original_title": "Avengers: Endgame",
@@ -6388,6 +6507,7 @@
         10402
       ],
       "id": 10376,
+      "category": "Classics",
       "title": "The Legend of 1900",
       "original_language": "it",
       "original_title": "La leggenda del pianista sull'oceano",
@@ -6412,6 +6532,7 @@
         18
       ],
       "id": 30020,
+      "category": "Classics",
       "title": "Taste of Cherry",
       "original_language": "fa",
       "original_title": "طعم گيلاس",
@@ -6438,6 +6559,7 @@
         9648
       ],
       "id": 670,
+      "category": "History",
       "title": "Oldboy",
       "original_language": "ko",
       "original_title": "올드보이",
@@ -6463,6 +6585,7 @@
         10752
       ],
       "id": 43980,
+      "category": "Fantasy",
       "title": "Bashu, the Little Stranger",
       "original_language": "fa",
       "original_title": "باشو، غریبه کوچک",
@@ -6490,6 +6613,7 @@
         10749
       ],
       "id": 15804,
+      "category": "Mystery",
       "title": "A Brighter Summer Day",
       "original_language": "zh",
       "original_title": "牯嶺街少年殺人事件",
@@ -6518,6 +6642,7 @@
         14
       ],
       "id": 572154,
+      "category": "Biography",
       "title": "Rascal Does Not Dream of a Dreaming Girl",
       "original_language": "ja",
       "original_title": "青春ブタ野郎はゆめみる少女の夢を見ない",
@@ -6544,6 +6669,7 @@
         36
       ],
       "id": 857,
+      "category": "Fantasy",
       "title": "Saving Private Ryan",
       "original_language": "en",
       "original_title": "Saving Private Ryan",
@@ -6569,6 +6695,7 @@
         18
       ],
       "id": 266225,
+      "category": "Fantasy",
       "title": "Death of Yazdgerd",
       "original_language": "fa",
       "original_title": "مرگ یزدگرد",
@@ -6597,6 +6724,7 @@
         12
       ],
       "id": 98,
+      "category": "Biography",
       "title": "Gladiator",
       "original_language": "en",
       "original_title": "Gladiator",
@@ -6622,6 +6750,7 @@
         36
       ],
       "id": 1317149,
+      "category": "Philosophy",
       "title": "I Swear",
       "original_language": "en",
       "original_title": "I Swear",
@@ -6648,6 +6777,7 @@
         10749
       ],
       "id": 504253,
+      "category": "Mystery",
       "title": "I Want to Eat Your Pancreas",
       "original_language": "ja",
       "original_title": "君の膵臓をたべたい",
@@ -6675,6 +6805,7 @@
         14
       ],
       "id": 635302,
+      "category": "History",
       "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
       "original_language": "ja",
       "original_title": "劇場版「鬼滅の刃」無限列車編",
@@ -6702,6 +6833,7 @@
         12
       ],
       "id": 24188,
+      "category": "History",
       "title": "Il Sorpasso",
       "original_language": "it",
       "original_title": "Il sorpasso",
@@ -6729,6 +6861,7 @@
         10749
       ],
       "id": 632632,
+      "category": "Fantasy",
       "title": "Given",
       "original_language": "ja",
       "original_title": "映画 ギヴン",
@@ -6755,6 +6888,7 @@
         36
       ],
       "id": 490132,
+      "category": "History",
       "title": "Green Book",
       "original_language": "en",
       "original_title": "Green Book",
@@ -6781,6 +6915,7 @@
         10749
       ],
       "id": 447362,
+      "category": "History",
       "title": "Life in a Year",
       "original_language": "en",
       "original_title": "Life in a Year",
@@ -6806,6 +6941,7 @@
         53
       ],
       "id": 1339713,
+      "category": "Biography",
       "title": "Obsession",
       "original_language": "en",
       "original_title": "Obsession",
@@ -6832,6 +6968,7 @@
         35
       ],
       "id": 508965,
+      "category": "Romance",
       "title": "Klaus",
       "original_language": "en",
       "original_title": "Klaus",
@@ -6859,6 +6996,7 @@
         10752
       ],
       "id": 16869,
+      "category": "Fantasy",
       "title": "Inglourious Basterds",
       "original_language": "en",
       "original_title": "Inglourious Basterds",
@@ -6884,6 +7022,7 @@
         53
       ],
       "id": 16672,
+      "category": "Classics",
       "title": "Woman in the Dunes",
       "original_language": "ja",
       "original_title": "砂の女",
@@ -6911,6 +7050,7 @@
         18
       ],
       "id": 283566,
+      "category": "Romance",
       "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
       "original_language": "ja",
       "original_title": "シン・エヴァンゲリオン劇場版:||",
@@ -6939,6 +7079,7 @@
         14
       ],
       "id": 110420,
+      "category": "Biography",
       "title": "Wolf Children",
       "original_language": "ja",
       "original_title": "おおかみこどもの雨と雪",
@@ -6965,6 +7106,7 @@
         18
       ],
       "id": 527641,
+      "category": "Romance",
       "title": "Five Feet Apart",
       "original_language": "en",
       "original_title": "Five Feet Apart",
@@ -6994,6 +7136,7 @@
         10751
       ],
       "id": 315162,
+      "category": "Mystery",
       "title": "Puss in Boots: The Last Wish",
       "original_language": "en",
       "original_title": "Puss in Boots: The Last Wish",
@@ -7021,6 +7164,7 @@
         12
       ],
       "id": 995133,
+      "category": "Fantasy",
       "title": "The Boy, the Mole, the Fox and the Horse",
       "original_language": "en",
       "original_title": "The Boy, the Mole, the Fox and the Horse",
@@ -7047,6 +7191,7 @@
         878
       ],
       "id": 1124,
+      "category": "History",
       "title": "The Prestige",
       "original_language": "en",
       "original_title": "The Prestige",
@@ -7073,6 +7218,7 @@
         80
       ],
       "id": 37257,
+      "category": "Fantasy",
       "title": "Witness for the Prosecution",
       "original_language": "en",
       "original_title": "Witness for the Prosecution",
@@ -7099,6 +7245,7 @@
         878
       ],
       "id": 11,
+      "category": "Fantasy",
       "title": "Star Wars",
       "original_language": "en",
       "original_title": "Star Wars",
@@ -7123,6 +7270,7 @@
         18
       ],
       "id": 50014,
+      "category": "Romance",
       "title": "The Help",
       "original_language": "en",
       "original_title": "The Help",
@@ -7149,6 +7297,7 @@
         53
       ],
       "id": 9702,
+      "category": "Fantasy",
       "title": "Bound by Honor",
       "original_language": "en",
       "original_title": "Bound by Honor",
@@ -7174,6 +7323,7 @@
         53
       ],
       "id": 694,
+      "category": "Self-help",
       "title": "The Shining",
       "original_language": "en",
       "original_title": "The Shining",
@@ -7198,6 +7348,7 @@
         10402
       ],
       "id": 568332,
+      "category": "Mystery",
       "title": "Taylor Swift: Reputation Stadium Tour",
       "original_language": "en",
       "original_title": "Taylor Swift: Reputation Stadium Tour",
@@ -7224,6 +7375,7 @@
         36
       ],
       "id": 25237,
+      "category": "Mystery",
       "title": "Come and See",
       "original_language": "ru",
       "original_title": "Иди и смотри",
@@ -7251,6 +7403,7 @@
         12
       ],
       "id": 354912,
+      "category": "Fantasy",
       "title": "Coco",
       "original_language": "en",
       "original_title": "Coco",
@@ -7278,6 +7431,7 @@
         9648
       ],
       "id": 11324,
+      "category": "Biography",
       "title": "Shutter Island",
       "original_language": "en",
       "original_title": "Shutter Island",
@@ -7303,6 +7457,7 @@
         18
       ],
       "id": 38258,
+      "category": "History",
       "title": "Viridiana",
       "original_language": "es",
       "original_title": "Viridiana",
@@ -7330,6 +7485,7 @@
         14
       ],
       "id": 12429,
+      "category": "Fantasy",
       "title": "Ponyo",
       "original_language": "ja",
       "original_title": "崖の上のポニョ",
@@ -7357,6 +7513,7 @@
         10751
       ],
       "id": 8392,
+      "category": "Mystery",
       "title": "My Neighbor Totoro",
       "original_language": "ja",
       "original_title": "となりのトトロ",
